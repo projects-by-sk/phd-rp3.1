@@ -361,3 +361,102 @@ Stephen has 14 balloons,Agent2 has number3 type2,Agent2,number3,type2
 David has 47 erasers,Agent2 has number3 type2,Agent2,number3,type2
 John had 46 pens,Agent1 has number2 type2,Agent1,number2,type2
 Jason bought 15 marbles,Agent3 has number1 type2,Agent3,number1,type2
+Daniel now has 40 books,Agent1 now has number5 type2,Agent1,number5,type2
+Sara now has 8.0 red balloons,Agent3 now has number4 type2,Agent3,number4,type2
+Joan now has 6.0 seashells,Agent3 now has number5 type2,Agent3,number5,type2
+Sandy now has 6.0 carrots,Agent3 now has number3 type1,Agent3,number3,type1
+Sally now has 5.0 blue balloons,Agent2 now has number3 type1,Agent2,number3,type1
+Tom now has 17 apples,Agent2 now has number4 type1,Agent2,number4,type1
+Bob now has 17 books,Agent3 now has number5 type2,Agent3,number5,type2
+Mike now has 14 pencils,Agent1 now has number3 type1,Agent1,number3,type1
+She now has 5.0 puppies,Agent2 now has number4 type2,Agent2,number4,type2
+Mike now has 2 pens,Agent2 now has number3 type2,Agent2,number3,type2
+Sara now has 17 oranges,Agent3 now has number5 type2,Agent3,number5,type2
+Sally now has 15 cookies,Agent1 now has number3 type1,Agent1,number3,type1
+He now has 10 books,Agent1 now has number5 type1,Agent1,number5,type1
+Joan now has 28 dimes,Agent3 now has number4 type2,Agent3,number4,type2
+She now has 5.0 puppies,Agent3 now has number3 type1,Agent3,number3,type1
+He now has 10 books,Agent1 now has number5 type2,Agent1,number5,type2
+She now has 5.0 puppies,Agent1 now has number5 type2,Agent1,number5,type2
+She now has 12.0 cookies,Agent2 now has number3 type2,Agent2,number3,type2
+Joan now has 37.0 oranges,Agent1 now has number5 type1,Agent1,number5,type1
+Benny now has 4.0 books,Agent1 now has number5 type1,Agent1,number5,type1
+Keith now has 7.0 pears,Agent2 now has number5 type2,Agent2,number5,type2
+He now has 10 books,Agent3 now has number5 type2,Agent3,number5,type2
+Tim now has 17 marbles,Agent1 now has number4 type1,Agent1,number4,type1
+Joan now has 6.0 seashells,Agent1 now has number5 type1,Agent1,number5,type1
+"After giving to Sara, now Daniel has 33 pens","After giving to Sara, now Agent2 has number3 type1",Agent2,number3,type1
+"After taking from John, now Fred has 10 cookies","After taking from John, now Agent1 has number4 type2",Agent1,number4,type2
+"After giving to Mike, now Sophia has 32 cookies","After giving to Mike, now Agent2 has number3 type1",Agent2,number3,type1
+"At present, Sally owns 47 balloons","At present, Agent1 owns number3 type2",Agent1,number3,type2
+"After taking from Tom, now Emma has 27 tickets","After taking from Tom, now Agent2 has number4 type1",Agent2,number4,type1
+"Currently, Alice has 16 marbles","Currently, Agent1 has number3 type1",Agent1,number3,type1
+"After giving to Mike, now Fred has 19 bottles","After giving to Mike, now Agent2 has number4 type1",Agent2,number4,type1
+"Currently, Liam has 36 toys","Currently, Agent1 has number4 type1",Agent1,number4,type1
+"After giving to Alice, now Keith has 23 pencils","After giving to Alice, now Agent2 has number3 type1",Agent2,number3,type1
+"After giving to David, now Alice has 7 balls","After giving to David, now Agent1 has number5 type1",Agent1,number5,type1
+"After taking from David, now Joan has 45 candies","After taking from David, now Agent3 has number4 type1",Agent3,number4,type1
+"Currently, Daniel has 34 toys","Currently, Agent1 has number4 type1",Agent1,number4,type1
+"After giving to John, now Tom has 49 candies","After giving to John, now Agent3 has number3 type2",Agent3,number3,type2
+"After taking from Fred, now Daniel has 22 bottles","After taking from Fred, now Agent3 has number5 type2",Agent3,number5,type2
+"After giving to Melanie, now Emma has 14 coins","After giving to Melanie, now Agent3 has number4 type2",Agent3,number4,type2
+"After taking from Sally, now Fred has 14 stamps","After taking from Sally, now Agent3 has number5 type2",Agent3,number5,type2
+"After giving to John, now Fred has 34 apples","After giving to John, now Agent2 has number4 type1",Agent2,number4,type1
+"After taking from Tom, now Jason has 41 cookies","After taking from Tom, now Agent3 has number5 type2",Agent3,number5,type2
+"At present, Alice owns 17 tickets","At present, Agent3 owns number3 type2",Agent3,number3,type2
+"After giving to Tom, now David has 27 pencils","After giving to Tom, now Agent2 has number5 type2",Agent2,number5,type2
+"After giving to Melanie, now Sara has 23 apples","After giving to Melanie, now Agent1 has number5 type2",Agent1,number5,type2
+"Currently, Sara has 23 roses","Currently, Agent2 has number3 type2",Agent2,number3,type2
+"After taking from Mike, now Fred has 30 onions","After taking from Mike, now Agent1 has number5 type2",Agent1,number5,type2
+"After giving to Melanie, now Emma has 24 books","After giving to Melanie, now Agent1 has number3 type2",Agent1,number3,type2
+"After taking from Mike, now David has 26 coins","After taking from Mike, now Agent3 has number5 type1",Agent3,number5,type1
+"After taking from Liam, now Sara has 14 marbles","After taking from Liam, now Agent1 has number5 type2",Agent1,number5,type2
+"Currently, Jason has 29 cookies","Currently, Agent2 has number3 type1",Agent2,number3,type1
+"After giving to Joan, now Emma has 46 carrots","After giving to Joan, now Agent2 has number3 type2",Agent2,number3,type2
+Now Jessica has 6 tickets,Now Agent2 has number5 type2,Agent2,number5,type2
+"After giving to Sophia, now Emma has 11 books","After giving to Sophia, now Agent3 has number4 type2",Agent3,number4,type2
+"At present, John owns 44 tickets","At present, Agent3 owns number3 type2",Agent3,number3,type2
+"Currently, Bob has 17 pencils","Currently, Agent3 has number3 type2",Agent3,number3,type2
+"After giving to Sally, now Sophia has 22 balloons","After giving to Sally, now Agent2 has number3 type2",Agent2,number3,type2
+"After taking from Bob, now Keith has 34 bottles","After taking from Bob, now Agent1 has number3 type2",Agent1,number3,type2
+"After taking from Sally, now David has 20 cookies","After taking from Sally, now Agent2 has number5 type1",Agent2,number5,type1
+"After giving to Sara, now Stephen has 26 bottles","After giving to Sara, now Agent1 has number4 type1",Agent1,number4,type1
+Now Bob has 10 coins,Now Agent3 has number3 type2,Agent3,number3,type2
+"Currently, Mike has 48 pencils","Currently, Agent2 has number5 type1",Agent2,number5,type1
+"At present, David owns 26 pencils","At present, Agent1 owns number5 type2",Agent1,number5,type2
+"At present, Alice owns 39 coins","At present, Agent2 owns number3 type2",Agent2,number3,type2
+"At present, Sam owns 10 bottles","At present, Agent2 owns number4 type2",Agent2,number4,type2
+"At present, Jessica owns 12 onions","At present, Agent3 owns number4 type2",Agent3,number4,type2
+"After taking from Daniel, now Jason has 9 pencils","After taking from Daniel, now Agent2 has number4 type1",Agent2,number4,type1
+"Currently, Sally has 26 erasers","Currently, Agent2 has number5 type2",Agent2,number5,type2
+"After giving to Alice, now Sally has 2 books","After giving to Alice, now Agent1 has number3 type1",Agent1,number3,type1
+Now Daniel has 41 balloons,Now Agent3 has number3 type1,Agent3,number3,type1
+"After giving to Tom, now Mike has 8 bottles","After giving to Tom, now Agent1 has number3 type2",Agent1,number3,type2
+Now Fred has 14 tickets,Now Agent2 has number3 type1,Agent2,number3,type1
+"After taking from Tom, now Alice has 38 pencils","After taking from Tom, now Agent2 has number4 type1",Agent2,number4,type1
+"At present, Sophia owns 50 carrots","At present, Agent3 owns number3 type1",Agent3,number3,type1
+"At present, Jason owns 14 balls","At present, Agent2 owns number5 type2",Agent2,number5,type2
+"Currently, Emma has 7 toys","Currently, Agent2 has number3 type1",Agent2,number3,type1
+Now Liam has 20 carrots,Now Agent2 has number3 type2,Agent2,number3,type2
+"At present, Keith owns 34 toys","At present, Agent1 owns number4 type2",Agent1,number4,type2
+"At present, Joan owns 46 balls","At present, Agent3 owns number3 type1",Agent3,number3,type1
+"At present, Sophia owns 41 toys","At present, Agent3 owns number5 type2",Agent3,number5,type2
+Now Jessica has 26 cookies,Now Agent3 has number3 type2,Agent3,number3,type2
+"Currently, Tom has 11 balloons","Currently, Agent2 has number4 type2",Agent2,number4,type2
+"At present, Keith owns 33 chocolates","At present, Agent2 owns number3 type1",Agent2,number3,type1
+"At present, Sally owns 17 bottles","At present, Agent3 owns number5 type1",Agent3,number5,type1
+"Currently, Sam has 12 cookies","Currently, Agent2 has number4 type2",Agent2,number4,type2
+"At present, Stephen owns 4 tickets","At present, Agent1 owns number4 type2",Agent1,number4,type2
+"Currently, John has 25 onions","Currently, Agent3 has number4 type1",Agent3,number4,type1
+"At present, Liam owns 27 candies","At present, Agent3 owns number4 type1",Agent3,number4,type1
+"After taking from Sally, now Alice has 6 tickets","After taking from Sally, now Agent2 has number5 type1",Agent2,number5,type1
+"Currently, Liam has 45 candies","Currently, Agent3 has number3 type1",Agent3,number3,type1
+"At present, Fred owns 46 onions","At present, Agent3 owns number5 type1",Agent3,number5,type1
+Now Sophia has 37 balls,Now Agent3 has number5 type1,Agent3,number5,type1
+"After giving to Keith, now Melanie has 15 carrots","After giving to Keith, now Agent2 has number5 type2",Agent2,number5,type2
+"Currently, Jessica has 22 marbles","Currently, Agent3 has number5 type2",Agent3,number5,type2
+"Currently, Stephen has 30 bottles","Currently, Agent1 has number4 type1",Agent1,number4,type1
+"After taking from Tom, now Jason has 30 chocolates","After taking from Tom, now Agent2 has number4 type1",Agent2,number4,type1
+"At present, Alice owns 35 balloons","At present, Agent2 owns number5 type2",Agent2,number5,type2
+"Currently, Tom has 18 pens","Currently, Agent3 has number4 type2",Agent3,number4,type2
+"At present, Mike owns 37 stamps","At present, Agent1 owns number4 type2",Agent1,number4,type2
