@@ -1,0 +1,1203 @@
+[
+  {
+    "Index": 1,
+    "Question": "Joan found 70 seashells. Sam found 20 seashells. Joan gave Sam 20 of her seashells. How many seashells does Joan have now?",
+    "Ntr": 1,
+    "Answer": 50
+  },
+ {
+    "Index": 2,
+    "Question": "Tom has 12 yellow balloons. Sara has 14 yellow balloons. Sara gave 10 yellow balloons to Tom. How many yellow balloons does Tom have now?",
+    "Ntr": 1,
+    "Answer": 22
+  },
+ {
+    "Index": 3,
+    "Question": "Stephen has 5 books. Daniel has 27 books and 4 pens. Daniel gave 20 books to Stephen. How many books does Daniel have now?",
+    "Ntr": 1,
+    "Answer": 7
+  },
+ {
+    "Index": 4,
+    "Question": "Mike bought 100 apples. Alyssa bought 30 apples. Mike took 12 apples from Alyssa. How many apples does Alyssa have now?",
+    "Ntr": 1,
+    "Answer": 18
+  },
+ {
+    "Index": 5,
+    "Question": "Jessica has 12 red marbles and 34 yellow marbles. Sara has 14 red marbles and 27 yellow marbles. Jessica gave 20 yellow marbles to Sara. How many yellow marbles does Sara have now?",
+    "Ntr": 1,
+    "Answer": 47
+  },
+ {
+    "Index": 6,
+    "Question": "Sam had 9 dimes in his bank. Mike had 12 dimes. Mike gave Sam 7 dimes . How many dimes does Sam have now?",
+    "Ntr": 1,
+    "Answer": 16
+  },
+ {
+    "Index": 7,
+    "Question": "Joan found 6 seashells. Jessica found 8 seashells. Joan gave 2 seashells to Jessica. How many seashells does Jessica have now?",
+    "Ntr": 1,
+    "Answer": 10
+  },
+ {
+    "Index": 8,
+    "Question": "Sandy grew 6 carrots. Sam grew 3 carrots. Sandy gave 5 carrots to Sam. How many carrots does Sam have now?",
+    "Ntr": 1,
+    "Answer": 8
+  },
+ {
+    "Index": 9,
+    "Question": "Sally had 27 Pokemon cards. Dan had 50 Pokemon Cards. Dan gave Shally 41 Pokemon cards . How many Pokemon cards does Sally have now?",
+    "Ntr": 1,
+    "Answer": 68
+  },
+ {
+    "Index": 10,
+    "Question": "Fred had 7 dimes in his bank. Sara had 12 dimes. Sara borrowed 5 dimes from Fred. How many dimes does Fred have now?",
+    "Ntr": 1,
+    "Answer": 2
+  },
+ {
+    "Index": 11,
+    "Question": "Dan has 64 violet marbles. Mike has 14 violet marbles. Dan gave 14 violet marbles to Mike. How many violet marbles does Mike have now?",
+    "Ntr": 1,
+    "Answer": 28
+  },
+ {
+    "Index": 12,
+    "Question": "Melanie grew 139 turnips. Benny grew 113 turnips. Benny took 50 turnips from Melanie. How many turnips does Melanie have now?",
+    "Ntr": 1,
+    "Answer": 89
+  },
+ {
+    "Index": 13,
+    "Question": "Jason has 45 Pokemon cards. Alyssa has 11 Pokemon cards.  Alyssa bought 24 Pokemon cards from Jason. How many Pokemon cards does Jason have now?",
+    "Ntr": 1,
+    "Answer": 21
+  },
+ {
+    "Index": 14,
+    "Question": "Alyssa picked 25 limes. Mike picked 32 limes. Alyssa gave 25 limes to Mike. How many limes does Alyssa have now?",
+    "Ntr": 1,
+    "Answer": 0
+  },
+ {
+    "Index": 15,
+    "Question": "Sam has 82 yellow marbles and 24 green marbles. Joan has 50 yellow marbles. Joan took 25  yellow marbles from Sam. How many yellow marbles does Sam have now?",
+    "Ntr": 1,
+    "Answer": 57
+  },
+ {
+    "Index": 16,
+    "Question": "Melanie picked 7 plums and 4 oranges from the orchard. Melanie gave 3 plums to Sam. How many plums does Melanie have now?",
+    "Ntr": 1,
+    "Answer": 4
+  },
+ {
+    "Index": 17,
+    "Question": "Nancy grew 2 onions. Dan grew 9 onions. Dan gave 7 onions to Nancy. How many onions does Nancy have now?",
+    "Ntr": 1,
+    "Answer": 9
+  },
+ {
+    "Index": 18,
+    "Question": "Michelle has 2 crayons. Janet has 2 crayons. Janet gave 2 crayons to Michelle. How many crayons does Michelle have now?",
+    "Ntr": 1,
+    "Answer": 4
+  },
+ {
+    "Index": 19,
+    "Question": "Eugene has 51 pencils. Eugene gets 6 pencils from Joyce. How many pencils does Eugene have now?",
+    "Ntr": 1,
+    "Answer": 57
+  },
+{
+    "Index": 20,
+    "Question": "Roger has 95 candies. Roger gives 3 candies to Stephanie. How many candies will Roger have?",
+    "Ntr": 1,
+    "Answer": 92
+  },
+ {
+    "Index": 21,
+    "Question": "Ella had 50 apples. Lily had 30 apples. Ella gave Lily 10 apples. How many apples does Ella have now?",
+    "Ntr": 1,
+    "Answer": 40
+  },
+  {
+    "Index": 22,
+    "Question": "Ryan has 25 marbles. Jack has 15 marbles. Jack gave 5 marbles to Ryan. How many marbles does Jack have now?",
+    "Ntr": 1,
+    "Answer": 10
+  },
+  {
+    "Index": 23,
+    "Question": "Sophia found 70 seashells. Emma found 40 seashells. Sophia gave Emma 20 of her seashells. How many seashells does Sophia have now?",
+    "Ntr": 1,
+    "Answer": 50
+  },
+  {
+    "Index": 24,
+    "Question": "Liam has 90 stickers. Noah has 45 stickers. Liam gave Noah 30 stickers. How many stickers does Noah have now?",
+    "Ntr": 1,
+    "Answer": 75
+  },
+  {
+    "Index": 25,
+    "Question": "Olivia had 22 oranges. Ava had 14 oranges. Ava gave 6 oranges to Olivia. How many oranges does Ava have now?",
+    "Ntr": 1,
+    "Answer": 8
+  },
+  {
+    "Index": 26,
+    "Question": "Mason has 35 toy cars. Ethan has 20 toy cars. Mason gave Ethan 14 toy cars. How many toy cars does Ethan have now?",
+    "Ntr": 1,
+    "Answer": 34
+  },
+  {
+    "Index": 27,
+    "Question": "Harper bought 60 chocolates. Amelia bought 30 chocolates. Harper gave Amelia 12 chocolates. How many chocolates does Harper have now?",
+    "Ntr": 1,
+    "Answer": 48
+  },
+  {
+    "Index": 28,
+    "Question": "Lucas had 80 pencils. Henry had 50 pencils. Lucas took 25 pencils from Henry. How many pencils does Lucas have now?",
+    "Ntr": 1,
+    "Answer": 105
+  },
+  {
+    "Index": 29,
+    "Question": "Chloe has 28 cupcakes. Grace has 18 cupcakes. Grace gave 6 cupcakes to Chloe. How many cupcakes does Grace have now?",
+    "Ntr": 1,
+    "Answer": 12
+  },
+  {
+    "Index": 30,
+    "Question": "Aiden has 48 coins. James has 36 coins. Aiden gave 12 coins to James. How many coins does Aiden have now?",
+    "Ntr": 1,
+    "Answer": 36
+  },
+  {
+    "Index": 31,
+    "Question": "Zoe had 15 red balloons. Ella had 25 red balloons. Ella gave 13 red balloons to Zoe. How many red balloons does Ella have now?",
+    "Ntr": 1,
+    "Answer": 12
+  },
+  {
+    "Index": 32,
+    "Question": "Benjamin has 60 books. William has 20 books. William gave 9 books to Benjamin. How many books does Benjamin have now?",
+    "Ntr": 1,
+    "Answer": 69
+  },
+  {
+    "Index": 33,
+    "Question": "Charlotte has 40 crayons. Emily has 18 crayons. Charlotte gave Emily 12 crayons. How many crayons does Charlotte have now?",
+    "Ntr": 1,
+    "Answer": 28
+  },
+  {
+    "Index": 34,
+    "Question": "Logan bought 90 candies. Elijah bought 55 candies. Logan gave 25 candies to Elijah. How many candies does Logan have now?",
+    "Ntr": 1,
+    "Answer": 65
+  },
+  {
+    "Index": 35,
+    "Question": "Isabella had 32 apples. Mia had 24 apples. Mia took 23 apples from Isabella. How many apples does Mia have now?",
+    "Ntr": 1,
+    "Answer": 47
+  },
+  {
+    "Index": 36,
+    "Question": "Sebastian has 72 stickers. Jackson has 42 stickers. Jackson took 19 stickers from Sebastian. How many stickers does Sebastian have now?",
+    "Ntr": 1,
+    "Answer": 53
+  },
+  {
+    "Index": 37,
+    "Question": "Layla had 25 roses. Aria had 42 roses. Aria gave 22 roses to Layla. How many roses does Aria have now?",
+    "Ntr": 1,
+    "Answer": 20
+  },
+  {
+    "Index": 38,
+    "Question": "Michael has 48 marbles. Oliver has 29 marbles. Michael gave Oliver 21 marbles. How many marbles does Michael have now?",
+    "Ntr": 1,
+    "Answer": 27
+  },
+  {
+    "Index": 39,
+    "Question": "Ella had 44 cookies. Grace had 26 cookies. Ella gave Grace 8 cookies. How many cookies does Ella have now?",
+    "Ntr": 1,
+    "Answer": 36
+  },
+  {
+    "Index": 40,
+    "Question": "Carter has 64 oranges. Daniel has 40 oranges. Daniel took 17 oranges from Carter. How many oranges does Carter have now?",
+    "Ntr": 1,
+    "Answer": 47
+  },
+  {
+    "Index": 41,
+    "Question": "Hannah has 12 blue marbles. Lily has 18 blue marbles. Lily gave 4 marbles to Hannah. How many blue marbles does Hannah have now?",
+    "Ntr": 1,
+    "Answer": 16
+  },
+  {
+    "Index": 42,
+    "Question": "Wyatt has 65 coins. Matthew has 30 coins. Wyatt gave 15 coins to Matthew. How many coins does Wyatt have now?",
+    "Ntr": 1,
+    "Answer": 50
+  },
+  {
+    "Index": 43,
+    "Question": "Evelyn bought 33 oranges. Scarlett bought 12 oranges. Scarlett gave 6 oranges to Evelyn. How many oranges does Scarlett have now?",
+    "Ntr": 1,
+    "Answer": 6
+  },
+  {
+    "Index": 44,
+    "Question": "David has 90 chocolates. Nathan has 45 chocolates. Nathan took 20 chocolates from David. How many chocolates does David have now?",
+    "Ntr": 1,
+    "Answer": 70
+  },
+  {
+    "Index": 45,
+    "Question": "Victoria had 36 pencils. Harper had 22 pencils. Harper gave 10 pencils to Victoria. How many pencils does Victoria have now?",
+    "Ntr": 1,
+    "Answer": 46
+  },
+  {
+    "Index": 46,
+    "Question": "Leo has 50 candies. Owen has 35 candies. Leo gave Owen 16 candies. How many candies does Leo have now?",
+    "Ntr": 1,
+    "Answer": 34
+  },
+  {
+    "Index": 47,
+    "Question": "Madison had 56 erasers. Ella had 24 erasers. Madison gave Ella 24 erasers. How many erasers does Madison have now?",
+    "Ntr": 1,
+    "Answer": 32
+  },
+  {
+    "Index": 48,
+    "Question": "Julian has 75 apples. Henry has 40 apples. Julian gave Henry 25 apples. How many apples does Julian have now?",
+    "Ntr": 1,
+    "Answer": 50
+  },
+  {
+    "Index": 49,
+    "Question": "Abigail has 22 chocolates. Penelope has 7 chocolates. Penelope gave 4 chocolates to Abigail. How many chocolates does Penelope have now?",
+    "Ntr": 1,
+    "Answer": 3
+  },
+  {
+    "Index": 50,
+    "Question": "Thomas had 37 marbles. Joseph had 55 marbles. Joseph gave 13 marbles to Thomas. How many marbles does Thomas have now?",
+    "Ntr": 1,
+    "Answer": 50
+  }
+,
+ {
+    "Index": 51,
+    "Question": "Mike has 87 baseball cards. Sam has 17 baseball cards. Tom has 14 baseball cards. Sam gave Mike 13 more baseball cards. Mike gave 30 baseball cards to Tom. How many baseball cards does Mike have now?",
+    "Ntr": 2,
+    "Answer": 70
+  },
+ {
+    "Index": 52,
+    "Question": "Sam had 98 pennies in his bank. Joan had 45 pennies. Tim had 124 pennies. Tim gave 93 pennies to Sam. Joan gave 21 pennies to Sam. How many pennies does Sam have now?",
+    "Ntr": 2,
+    "Answer": 212
+  },
+ {
+    "Index": 53,
+    "Question": "Jason found 49 seashells and 48 starfish on the beach. Jason got 13 more seashells from Tim. Jason gave 27 starfish to Tim. How many starfish does Jason have now?",
+    "Ntr": 2,
+    "Answer": 21
+  },
+ {
+    "Index": 54,
+    "Question": "Craig has 22 apples. Judy has 10 apples. Mike has 8 apples. Judy shares 7 apples with Craig. Craig gave 20 apples to Mike. How many apples does Mike have now?",
+    "Ntr": 2,
+    "Answer": 28
+  },
+{
+    "Index": 55,
+    "Question": "Melanie picked 17 plums and 14 oranges from the orchard. Melanie gave 13 plums to Sam. Melanie gave 8 oranges to Daniel. How many oranges does Melanie have now?",
+    "Ntr": 2,
+    "Answer": 6
+  },
+ {
+    "Index": 56,
+    "Question": "Sandy grew 16 carrots. Sam grew 13 carrots. Joan grew 57 carrots. Sandy gave 15 carrots to Sam. Sam gave 20 carrots to Joan. How many carrots does Sam have now?",
+    "Ntr": 2,
+    "Answer": 8
+  },
+{
+    "Index": 57,
+    "Question": "Joan has 19 blue balloons. Tim has 45 blue balloons. Sally has 25 blue balloons. Sally gave 15 blue balloons to Joan. Joan gave 21 blue balloons to Sally.  How many blue balloons does Joan have now?",
+    "Ntr": 2,
+    "Answer": 13
+  },
+ {
+    "Index": 58,
+    "Question": "Michelle has 12 crayons. Janet has 12 crayons. Jill has 6 crayons. Janet gave 5 crayons to Michelle. Janet gave 6 crayons to Jill. How many crayons does Janet have now?",
+    "Ntr": 2,
+    "Answer": 1
+  },
+{
+    "Index": 59,
+    "Question": "Heather has 60 oranges. Heather has 24 apples. Russell takes 35 oranges from Heather. Heather gave 12 apples to Russell. How many apples will Heather have?",
+    "Ntr": 2,
+    "Answer": 12
+  },
+ {
+    "Index": 60,
+    "Question": "Willie has 48 bananas. Charles has 14 bananas. Willie has 13 bananas. Willie gave 20 bananas to Charles. Charles gave 27 bananas to Willie. How many bananas does Charles have now?",
+    "Ntr": 2,
+    "Answer": 7
+  },
+{
+    "Index": 61,
+    "Question": "Craig has 20 apples. Judy has 11 apples. Sara has 2 apples. Judy shares 7 apples with Craig. Judy gave 3 apples to Sara. How many apples does Sara have now?",
+    "Ntr": 2,
+    "Answer": 5
+  },
+ {
+    "Index": 62,
+    "Question": "Cade had 87 marbles. Joan has 67 marbles. Isha has 96 marbles. Cade gave 8 marbles to Isha. Joan gave 34 marbles to Cade. How many marbles does Cade have now?",
+    "Ntr": 2,
+    "Answer": 113
+  },
+{
+    "Index": 63,
+    "Question": "Sheridan has 22 fish. Craig has 16 fish. Sara has 80 fish. Sara gave Sheridan 47 more fish. Sara gave 10 fish to Craig. How many fish does Craig have now?",
+    "Ntr": 2 ,
+    "Answer": 26
+  },
+ {
+    "Index": 64,
+    "Question": "Roger had 160 dollars. Sam had 2 dollars. Sandy had 90 dollars. Roger transferred 90 dollars to Sam. Sam gave 33 dollars to Sandy. How many dollars does Sam have now?",
+    "Ntr": 2,
+    "Answer": 59
+  },
+{
+    "Index": 65,
+    "Question": "Sara had 81 quarters in her bank. Cade has 19 quarters. Jill has 65 quarters. Sara gave Jill 49 more quarters. Sara gave 28 quarters to cade. How many quarters does Sara have now?",
+    "Ntr": 2,
+    "Answer": 4
+  },
+ {
+    "Index": 66,
+    "Question": "Joan found 70 seashells. Sam found 20 seashells. Stephen has 15 seashells. Joan gave Sam 20 of her seashells. Joan gave 13 seashells to Stephen. How many seashells does Joan have now?",
+    "Ntr": 2,
+    "Answer": 37
+  },
+{
+    "Index": 67,
+    "Question": "Tom has 12 yellow balloons. Bob has 46 blue balloons. Sara has 14 yellow balloons. Sara gave 10 yellow balloons to Tom. Tom gave 18 blue balloons to Bob. How many blue balloons does Tom have now?",
+    "Ntr": 2,
+    "Answer": 4
+  },
+ {
+    "Index": 68,
+    "Question": "Stephen has 5 books. Daniel has 27 books. Daniel has 4 pens. Mike has 7 books. Daniel gave 20 books to Stephen. Stephen gave 9 books to Mike. How many books does Mike have now?",
+    "Ntr": 2,
+    "Answer": 16
+  },
+{
+    "Index": 69,
+    "Question": "Mike bought 100 apples. Alyssa bought 30 apples. Tim bought 82 apples. Mike took 12 apples from Alyssa. Tim gave 23 apples to Alyssa. How many apples does Alyssa have now?",
+    "Ntr": 2,
+    "Answer": 41
+  },
+ {
+    "Index": 70,
+    "Question": "Jessica has 12 red marbles and 34 yellow marbles. Sara has 14 red marbles and 27 yellow marbles. Sally has 39 red marbles. Jessica gave 20 yellow marbles to Sara. Sally gave 27 red marbles to Jessica. How many red marbles does Sally have now?",
+    "Ntr": 2,
+    "Answer": 12
+  },
+{
+    "Index": 71,
+    "Question": "Emma had 60 apples. She gave 10 apples to Liam and 16 apples to Noah. How many apples does Emma have now?",
+    "Ntr": 2,
+    "Answer": 34
+  },
+  {
+    "Index": 72,
+    "Question": "Sophia had 41 candies. She gave 10 candies to Ava and 5 candies to Mia. How many candies does Sophia have now?",
+    "Ntr": 2,
+    "Answer": 26
+  },
+  {
+    "Index": 73,
+    "Question": "Liam had 82 pencils. He gave 20 pencils to Noah and 15 pencils to Emma. How many pencils does Liam have now?",
+    "Ntr": 2,
+    "Answer": 47
+  },
+  {
+    "Index": 74,
+    "Question": "Noah had 45 oranges. He gave 11 oranges to Ava and 5 oranges to Mia. How many oranges does Noah have now?",
+    "Ntr": 2,
+    "Answer": 29
+  },
+  {
+    "Index": 75,
+    "Question": "Olivia had 90 marbles. She gave 15 marbles to Emma and 12 marbles to Jack. How many marbles does Olivia have now?",
+    "Ntr": 2,
+    "Answer": 63
+  },
+  {
+    "Index": 76,
+    "Question": "Jack had 88 balloons. He gave 31 balloons to Emma and 20 balloons to Olivia. How many balloons does Jack have now?",
+    "Ntr": 2,
+    "Answer": 37
+  },
+  {
+    "Index": 77,
+    "Question": "Mia had 48 chocolates. She gave 5 chocolates to Ava and 10 chocolates to Noah. How many chocolates does Mia have now?",
+    "Ntr": 2,
+    "Answer": 33
+  },
+  {
+    "Index": 78,
+    "Question": "Lucas had 95 books. He gave 20 books to Emma and 30 books to Liam. How many books does Lucas have now?",
+    "Ntr": 2,
+    "Answer": 45
+  },
+  {
+    "Index": 79,
+    "Question": "Ella had 57 crayons. She gave 15 crayons to Mia and 10 crayons to Noah. How many crayons does Ella have now?",
+    "Ntr": 2,
+    "Answer": 32
+  },
+  {
+    "Index": 80,
+    "Question": "Ava had 72 toy cars. She gave 10 toy cars to Liam and 20 toy cars to Emma. How many toy cars does Ava have now?",
+    "Ntr": 2,
+    "Answer": 42
+  },
+  {
+    "Index": 81,
+    "Question": "Mason had 65 candies. He gave 17 candies to Lily and 10 candies to Ben. How many candies does Mason have now?",
+    "Ntr": 2,
+    "Answer": 38
+  },
+  {
+    "Index": 82,
+    "Question": "Chloe had 72 pencils. She gave 23 pencils to Ryan and 15 pencils to Zoe. How many pencils does Chloe have now?",
+    "Ntr": 2,
+    "Answer": 34
+  },
+  {
+    "Index": 83,
+    "Question": "Ethan had 88 stickers. He gave 26 stickers to Mia and 16 stickers to Ava. How many stickers does Ethan have now?",
+    "Ntr": 2,
+    "Answer": 46
+  },
+  {
+    "Index": 84,
+    "Question": "Lily had 64 cupcakes. She gave 11 cupcakes to Zoe and 23 cupcakes to Ryan. How many cupcakes does Lily have now?",
+    "Ntr": 2,
+    "Answer": 30
+  },
+  {
+    "Index": 85,
+    "Question": "Zoe had 92 candies. She gave 42 candies to Ben and 12 candies to Ava. How many candies does Zoe have now?",
+    "Ntr": 2,
+    "Answer": 38
+  },
+  {
+    "Index": 86,
+    "Question": "Ryan had 52 muffins. He gave 15 muffins to Chloe and 10 muffins to Mia. How many muffins does Ryan have now?",
+    "Ntr": 2,
+    "Answer": 27
+  },
+  {
+    "Index": 87,
+    "Question": "Hannah had 94 cookies. She gave 20 cookies to Emma and 25 cookies to Noah. How many cookies does Hannah have now?",
+    "Ntr": 2,
+    "Answer": 49
+  },
+  {
+    "Index": 88,
+    "Question": "Ben had 87 marbles. He gave 33 marbles to Liam and 11 marbles to Jack. How many marbles does Ben have now?",
+    "Ntr": 2,
+    "Answer": 43
+  },
+  {
+    "Index": 89,
+    "Question": "Daniel had 53 strawberries. He gave 16 strawberries to Ava and 10 strawberries to Noah. How many strawberries does Daniel have now?",
+    "Ntr": 2,
+    "Answer": 27
+  },
+  {
+    "Index": 90,
+    "Question": "Grace had 93 oranges. She gave 26 oranges to Emma and 15 oranges to Lucas. How many oranges does Grace have now?",
+    "Ntr": 2,
+    "Answer": 52
+  },
+  {
+    "Index": 91,
+    "Question": "Evelyn had 62 books. She gave 24 books to Chloe and 14 books to Ryan. How many books does Evelyn have now?",
+    "Ntr": 2,
+    "Answer": 24
+  },
+  {
+    "Index": 92,
+    "Question": "Olivia had 100 marbles. She gave 25 marbles to Emma and received 15 marbles from Noah. How many marbles does Olivia have now?",
+    "Ntr": 2,
+    "Answer": 90
+  },
+  {
+    "Index": 93,
+    "Question": "Liam gave 10 apples to Ava and received 6 apples from Jack. If Liam started with 40 apples, how many apples does he have now?",
+    "Ntr": 2,
+    "Answer": 36
+  },
+  {
+    "Index": 94,
+    "Question": "Mia gave 22 pencils to Emma and received 10 pencils from Lucas. She had 50 pencils initially. How many pencils does Mia have now?",
+    "Ntr": 2,
+    "Answer": 38
+  },
+  {
+    "Index": 95,
+    "Question": "Ethan received 22 candies from Noah and gave 10 candies to Ava. If he had 40 candies at first, how many candies does Ethan have now?",
+    "Ntr": 2,
+    "Answer": 52
+  },
+  {
+    "Index": 96,
+    "Question": "Sophie gave 14 chocolates to Mia and received 5 chocolates from Lily. She had 30 chocolates initially. How many chocolates does Sophie have now?",
+    "Ntr": 2,
+    "Answer": 21
+  },
+  {
+    "Index": 97,
+    "Question": "Noah gave 26 oranges to Emma and received 12 oranges from Liam. He had 60 oranges initially. How many oranges does Noah have now?",
+    "Ntr": 2,
+    "Answer": 46
+  },
+  {
+    "Index": 98,
+    "Question": "Ava gave 24 cupcakes to Mia and received 15 cupcakes from Lucas. She started with 48 cupcakes. How many cupcakes does Ava have now?",
+    "Ntr": 2,
+    "Answer": 39
+  },
+  {
+    "Index": 99,
+    "Question": "Jack gave 32 stickers to Emma and received 22 stickers from Olivia. He had 70 stickers before. How many stickers does Jack have now?",
+    "Ntr": 2,
+    "Answer": 60
+  },
+  {
+    "Index": 100,
+    "Question": "Lily gave 10 books to Chloe and received 17 books from Ethan. She originally had 40 books. How many books does Lily have now?",
+    "Ntr": 2,
+    "Answer": 47
+  },
+ {
+    "Index": 101,
+    "Question": "Mike has 87 baseball cards. Sam has 17 baseball cards. Tom has 14 baseball cards. Sam gave Mike 13 more baseball cards. Mike gave 30 baseball cards to Tom. Tom gave 14 baseball cards to Mike. How many baseball cards does Mike have now?",
+    "Ntr": 3,
+    "Answer": 30 
+  },
+ {
+    "Index": 102,
+    "Question": "Sam had 98 pennies in his bank. Joan had 45 pennies. Tim had 124 pennies. Tim gave 93 pennies to Sam. Joan gave 21 pennies to Sam. Sam gave 95 pennies to Tim. How many pennies does Tim have now?",
+    "Ntr": 3,
+    "Answer": 126
+  },
+ {
+    "Index": 103,
+    "Question": "Jason found 49 seashells and 48 starfish on the beach. Tim found 18 seashells and 2 starfish. Jason got 13 more seashells from Tim. Sally has 26 starfish. Jason gave 27 starfish to Tim. Sally gave 10 starfish to Jason. How many starfish does Jason have now?",
+    "Ntr": 3,
+    "Answer": 31
+  },
+ {
+    "Index": 104,
+    "Question": "Craig has 22 apples. Judy has 10 apples. Mike has 8 apples. Judy shares 7 apples with Craig. Craig gave 20 apples to Mike. Mike gave 22 apples to Judy. How many apples does Mike have now?",
+    "Ntr": 3,
+    "Answer":  6
+  },
+{
+    "Index": 105,
+    "Question": "Melanie picked 17 plums and 14 oranges from the orchard. Sam has 16 plums. Daniel has 10 oranges. Melanie gave 13 plums to Sam. Melanie gave 8 oranges to Daniel. Sam gave 25 plums to Melanie. How many plums does Sam have now?",
+    "Ntr": 3,
+    "Answer":  4
+  },
+ {
+    "Index": 106,
+    "Question": "Sandy grew 16 carrots. Sam grew 13 carrots. Joan grew 57 carrots. Sandy gave 15 carrots to Sam. Sam gave 20 carrots to Joan. John gave 60 carrots to Sandy. How many carrots does Sandy have now?",
+    "Ntr": 3,
+    "Answer":  61
+  },
+{
+    "Index": 107,
+    "Question": "Joan has 19 blue balloons. Tim has 45 blue balloons. Sally has 25 blue balloons. Sally gave 15 blue balloons to Joan. Joan gave 21 blue balloons to Sally. Tim gave 30 blue balloons to Joan.  How many blue balloons does Tim have now?",
+    "Ntr": 3,
+    "Answer": 15
+  },
+ {
+    "Index": 108,
+    "Question": "Michelle has 12 crayons. Janet has 12 crayons. Jill has 6 crayons. Janet gave 5 crayons to Michelle. Janet gave 6 crayons to Jill. Michelle gave 7 crayons to Janet. How many crayons does Janet have now?",
+    "Ntr": 3,
+    "Answer": 8
+  },
+{
+    "Index": 109,
+    "Question": "Willie has 48 bananas. Charles has 14 bananas. Sara has 13 bananas. Willie gave 20 bananas to Charles. Charles gave 27 bananas to Willie. Willie gave 30 bananas to Sara. How many bananas does Willie have now?",
+    "Ntr": 3,
+    "Answer": 25
+  },
+ {
+    "Index": 110,
+    "Question": "Craig has 20 apples. Judy has 11 apples. Sara has 2 apples. Judy shares 7 apples with Craig. Judy gave 3 apples to Sara. Craig gave 15 apples to Sara. How many apples does Sara have now?",
+    "Ntr": 3,
+    "Answer": 20
+  },
+{
+    "Index": 111,
+    "Question": "Cade had 87 marbles. Joan has 67 marbles. Isha has 96 marbles. Cade gave 8 marbles to Isha. Joan gave 34 marbles to Cade. Joan gave 13 marbles to Isha. How many marbles does Isha have now?",
+    "Ntr": 3,
+    "Answer": 117
+  },
+ {
+    "Index": 112,
+    "Question": "Sheridan has 22 fish. Craig has 16 fish. Sara has 80 fish. Sara gave Sheridan 47 more fish. Sara gave 10 fish to Craig. Craig gave 19 fish to Sheridan. How many fish does Craig have now?",
+    "Ntr": 3,
+    "Answer": 7
+  },
+{
+    "Index": 113,
+    "Question": "Roger had 160 dollars. Sam had 2 dollars. Sandy had 90 dollars. Roger transferred 90 dollars to Sam. Sam gave 33 dollars to Sandy. Sandy gave 6 dollars to Roger. How many dollars does Sandy have now?",
+    "Ntr": 3,
+    "Answer": 117
+  },
+ {
+    "Index": 114,
+    "Question": "Sara had 81 quarters in her bank. Cade has 19 quarters. Jill has 65 quarters. Sara gave Jill 49 more quarters. Sara gave 28 quarters to cade. Jill gave 12 quarters to Sara. How many quarters does Jill have now?",
+    "Ntr": 3,
+    "Answer": 102
+  },
+{
+    "Index": 115,
+    "Question": "Joan found 70 seashells. Sam found 20 seashells. Stephen found 15 seashells. Joan gave Sam 20 of her seashells. Joan gave 13 seashells to Stephen. Sam gave 18 seashells to Joan. How many seashells does Joan have now?",
+    "Ntr": 3,
+    "Answer": 55
+  },
+ {
+    "Index": 116,
+    "Question": "Tom has 12 yellow balloons. Bob has 46 blue balloons. Sara has 14 yellow balloons. Sara gave 10 yellow balloons to Tom. Tom gave 18 blue balloons to Bob. Bob gave 39 yellow balloons to Sara. How many blue balloons does Bob have now?",
+    "Ntr": 3,
+    "Answer": 25
+  },
+{
+    "Index": 117,
+    "Question": "Stephen has 5 books. Daniel has 27 books. Daniel has 4 pens. Mike has 7 books. Daniel gave 20 books to Stephen. Stephen gave 9 books to Mike. Mike gave 14 books to Daniel. How many books does Daniel have now?",
+    "Ntr": 3,
+    "Answer": 21
+  },
+ {
+    "Index": 118,
+    "Question": "Mike bought 100 apples. Alyssa bought 30 apples. Tim bought 82 apples. Mike took 12 apples from Alyssa. Tim gave 23 apples to Alyssa. Alyssa gave 25 apples to Mike. How many apples does Mike have now?",
+    "Ntr": 3,
+    "Answer": 137
+  },
+{
+    "Index": 119,
+    "Question": "Jessica has 12 red marbles and 34 yellow marbles. Sara has 14 red marbles and 27 yellow marbles. Sally has 39 red marbles. Jessica gave 20 yellow marbles to Sara. Sally gave 27 red marbles to Jessica. Sara gave 32 yellow marbles to Jessica. How many yellow marbles does Jessica have now?",
+    "Ntr": 3,
+    "Answer": 46
+  },
+ {
+    "Index": 120,
+    "Question": "Sam had 9 dimes in his bank. Mike had 12 dimes. Craig has 63 dimes. Mike gave Sam 7 dimes. Mike gave 2 dimes to Craig. Craig gave 44 dimes to Sam. How many dimes does Sam have now?",
+    "Ntr": 3,
+    "Answer": 60
+  },
+{
+    "Index": 121,
+    "Question": "Stephen had 22 oranges, Daniel had 18 oranges, and Joan had 10 oranges. Stephen gave 9 oranges to Daniel. Joan gave 7 oranges to Stephen. Daniel gave 5 oranges to Joan. How many oranges does Stephen have now?",
+    "Ntr": 3,
+    "Answer": 20
+  },
+  {
+    "Index": 122,
+    "Question": "Mike has 14 pencils. Liam has 19 pencils. Noah has 25 pencils. Mike gave 8 pencils to Liam. Noah gave 11 pencils to Mike. Liam gave 10 pencils to Noah. How many pencils does Liam have now?",
+    "Ntr": 3,
+    "Answer": 17
+  },
+  {
+    "Index": 123,
+    "Question": "Emma had 28 apples. Olivia had 22 apples. Ethan had 15 apples. Olivia gave 9 apples to Emma. Ethan gave 6 apples to Olivia. Emma gave 10 apples to Ethan. How many apples does Olivia have now?",
+    "Ntr": 3,
+    "Answer": 19
+  },
+  {
+    "Index": 124,
+    "Question": "Mason had 18 marbles. Lucas had 12 marbles. Ava had 16 marbles. Lucas gave 9 marbles to Mason. Ava gave 7 marbles to Lucas. Mason gave 11 marbles to Ava. How many marbles does Mason have now?",
+    "Ntr": 3,
+    "Answer": 16
+  },
+  {
+    "Index": 125,
+    "Question": "Isabella had 19 candies. Mia had 11 candies. Jack had 17 candies. Mia gave 8 candies to Isabella. Jack gave 9 candies to Mia. Isabella gave 6 candies to Jack. How many candies does Isabella have now?",
+    "Ntr": 3,
+    "Answer": 21
+  },
+  {
+    "Index": 126,
+    "Question": "William had 30 erasers. Henry had 27 erasers. Grace had 20 erasers. Henry gave 13 erasers to William. Grace gave 11 erasers to Henry. William gave 14 erasers to Grace. How many erasers does Henry have now?",
+    "Ntr": 3,
+    "Answer": 25
+  },
+  {
+    "Index": 127,
+    "Question": "Amelia had 26 crayons. Ella had 14 crayons. James had 22 crayons. Ella gave 10 crayons to Amelia. James gave 7 crayons to Ella. Amelia gave 9 crayons to James. How many crayons does Ella have now?",
+    "Ntr": 3,
+    "Answer": 11
+  },
+  {
+    "Index": 128,
+    "Question": "Benjamin had 17 peaches. Alexander had 25 peaches. Logan had 12 peaches. Benjamin gave 8 peaches to Alexander. Logan gave 5 peaches to Benjamin. Alexander gave 6 peaches to Logan. How many peaches does Benjamin have now?",
+    "Ntr": 3,
+    "Answer": 14
+  },
+  {
+    "Index": 129,
+    "Question": "Charlotte had 24 books. Harper had 19 books. Evelyn had 21 books. Harper gave 11 books to Charlotte. Evelyn gave 9 books to Harper. Charlotte gave 10 books to Evelyn. How many books does Harper have now?",
+    "Ntr": 3,
+    "Answer": 17
+  },
+  {
+    "Index": 130,
+    "Question": "Liam had 29 mangoes. Noah had 13 mangoes. Oliver had 20 mangoes. Noah gave 8 mangoes to Liam. Oliver gave 6 mangoes to Noah. Liam gave 9 mangoes to Oliver. How many mangoes does Oliver have now?",
+    "Ntr": 3,
+    "Answer": 23
+  },
+  {
+    "Index": 131,
+    "Question": "Sophia had 16 cherries. Lily had 22 cherries. Jack had 18 cherries. Lily gave 7 cherries to Sophia. Jack gave 9 cherries to Lily. Sophia gave 6 cherries to Jack. How many cherries does Jack have now?",
+    "Ntr": 3,
+    "Answer": 15
+  },
+  {
+    "Index": 132,
+    "Question": "Daniel had 20 marbles. Michael had 15 marbles. Emily had 13 marbles. Daniel gave 8 marbles to Michael. Emily gave 5 marbles to Daniel. Michael gave 6 marbles to Emily. How many marbles does Daniel have now?",
+    "Ntr": 3,
+    "Answer": 17
+  },
+  {
+    "Index": 133,
+    "Question": "Aiden had 18 apples. Logan had 12 apples. Abigail had 22 apples. Aiden gave 9 apples to Logan. Abigail gave 8 apples to Aiden. Logan gave 6 apples to Abigail. How many apples does Logan have now?",
+    "Ntr": 3,
+    "Answer": 15
+  },
+  {
+    "Index": 134,
+    "Question": "Eleanor had 27 bananas. Jack had 14 bananas. Emily had 17 bananas. Jack gave 10 bananas to Eleanor. Emily gave 9 bananas to Jack. Eleanor gave 8 bananas to Emily. How many bananas does Emily have now?",
+    "Ntr": 3,
+    "Answer": 16
+  },
+  {
+    "Index": 135,
+    "Question": "Harper had 25 pencils. Ella had 18 pencils. Alexander had 12 pencils. Harper gave 11 pencils to Ella. Alexander gave 7 pencils to Harper. Ella gave 6 pencils to Alexander. How many pencils does Harper have now?",
+    "Ntr": 3,
+    "Answer": 21
+  },
+  {
+    "Index": 136,
+    "Question": "Mason had 22 red balloons. Olivia had 26 red balloons. Liam had 19 red balloons. Olivia gave 10 red balloons to Mason. Liam gave 7 red balloons to Olivia. Mason gave 8 red balloons to Liam. How many red balloons does Mason have now?",
+    "Ntr": 3,
+    "Answer": 24
+  },
+  {
+    "Index": 137,
+    "Question": "Lucas had 19 toy cars. Ethan had 24 toy cars. Grace had 20 toy cars. Ethan gave 9 toy cars to Lucas. Grace gave 6 toy cars to Ethan. Lucas gave 7 toy cars to Grace. How many toy cars does Ethan have now?",
+    "Ntr": 3,
+    "Answer": 21
+  },
+  {
+    "Index": 138,
+    "Question": "Isabella had 21 apples. Henry had 15 apples. Noah had 27 apples. Henry gave 9 apples to Isabella. Noah gave 8 apples to Henry. Isabella gave 7 apples to Noah. How many apples does Henry have now?",
+    "Ntr": 3,
+    "Answer": 14
+  },
+  {
+    "Index": 139,
+    "Question": "Mia had 28 strawberries. Amelia had 16 strawberries. Jack had 24 strawberries. Amelia gave 11 strawberries to Mia. Jack gave 10 strawberries to Amelia. Mia gave 8 strawberries to Jack. How many strawberries does Jack have now?",
+    "Ntr": 3,
+    "Answer": 22
+  },
+  {
+    "Index": 140,
+    "Question": "Ava had 20 cupcakes. Logan had 18 cupcakes. Oliver had 12 cupcakes. Logan gave 7 cupcakes to Ava. Oliver gave 5 cupcakes to Logan. Ava gave 6 cupcakes to Oliver. How many cupcakes does Logan have now?",
+    "Ntr": 3,
+    "Answer": 16
+  },
+  {
+    "Index": 141,
+    "Question": "Sophia had 15 books. Emily had 17 books. Ethan had 10 books. Emily gave 6 books to Sophia. Ethan gave 4 books to Emily. Sophia gave 5 books to Ethan. How many books does Emily have now?",
+    "Ntr": 3,
+    "Answer": 15
+  },
+  {
+    "Index": 142,
+    "Question": "Daniel had 29 plums. William had 13 plums. Olivia had 16 plums. William gave 7 plums to Daniel. Olivia gave 9 plums to William. Daniel gave 10 plums to Olivia. How many plums does Daniel have now?",
+    "Ntr": 3,
+    "Answer": 26
+  },
+  {
+    "Index": 143,
+    "Question": "Michael had 25 oranges. Emma had 19 oranges. Noah had 14 oranges. Emma gave 11 oranges to Michael. Noah gave 7 oranges to Emma. Michael gave 8 oranges to Noah. How many oranges does Michael have now?",
+    "Ntr": 3,
+    "Answer": 28
+  },
+  {
+    "Index": 144,
+    "Question": "James had 24 red marbles. Lucas had 13 red marbles. Grace had 17 red marbles. Lucas gave 6 red marbles to James. Grace gave 8 red marbles to Lucas. James gave 9 red marbles to Grace. How many red marbles does James have now?",
+    "Ntr": 3,
+    "Answer": 21
+  },
+  {
+    "Index": 145,
+    "Question": "Amelia had 22 cupcakes. Lily had 15 cupcakes. Jack had 18 cupcakes. Lily gave 8 cupcakes to Amelia. Jack gave 7 cupcakes to Lily. Amelia gave 6 cupcakes to Jack. How many cupcakes does Lily have now?",
+    "Ntr": 3,
+    "Answer": 14
+  },
+  {
+    "Index": 146,
+    "Question": "Noah had 27 crayons. Liam had 11 crayons. Olivia had 20 crayons. Liam gave 9 crayons to Noah. Olivia gave 6 crayons to Liam. Noah gave 10 crayons to Olivia. How many crayons does Liam have now?",
+    "Ntr": 3,
+    "Answer": 8
+  },
+  {
+    "Index": 147,
+    "Question": "Ethan had 23 bananas. Daniel had 18 bananas. Isabella had 15 bananas. Daniel gave 8 bananas to Ethan. Isabella gave 5 bananas to Daniel. Ethan gave 9 bananas to Isabella. How many bananas does Ethan have now?",
+    "Ntr": 3,
+    "Answer": 22
+  },
+  {
+    "Index": 148,
+    "Question": "Harper had 26 apples. Grace had 19 apples. Henry had 17 apples. Grace gave 10 apples to Harper. Henry gave 8 apples to Grace. Harper gave 9 apples to Henry. How many apples does Harper have now?",
+    "Ntr": 3,
+    "Answer": 27
+  },
+  {
+    "Index": 149,
+    "Question": "Lucas had 18 chocolates. Ava had 25 chocolates. Liam had 20 chocolates. Ava gave 9 chocolates to Lucas. Liam gave 6 chocolates to Ava. Lucas gave 7 chocolates to Liam. How many chocolates does Ava have now?",
+    "Ntr": 3,
+    "Answer": 22
+  },
+  {
+    "Index": 150,
+    "Question": "Mason had 20 apples. Emily had 17 apples. Michael had 22 apples. Emily gave 8 apples to Mason. Michael gave 7 apples to Emily. Mason gave 6 apples to Michael. How many apples does Emily have now?",
+    "Ntr": 3,
+    "Answer": 16
+  },
+ {
+    "Index": 151,
+    "Question": "Mike has 87 baseball cards. Sam has 17 baseball cards. Tom has 14 baseball cards. Sam gave Mike 13 more baseball cards. Mike gave 30 baseball cards to Tom. Tom gave 14 baseball cards to Mike. Tom gave 28 baseball cards to Sam. How many baseball cards does Sam have now?",
+    "Ntr": 4,
+    "Answer": 32
+  },
+ {
+    "Index": 152,
+    "Question": "Sam had 98 pennies in his bank. Joan had 45 pennies. Tim had 124 pennies. Tim gave 93 pennies to Sam. Joan gave 21 pennies to Sam. Sam gave 95 pennies to Tim. Tim gave 54 pennies to Joan. How many pennies does Tim have now?",
+    "Ntr": 4,
+    "Answer": 72
+  },
+ {
+    "Index": 153,
+    "Question": "Jason found 49 seashells and 48 starfish on the beach. Tim found 18 seashells and 2 starfish. Jason got 13 more seashells from Tim. Sally has 26 starfish. Jason gave 27 starfish to Tim. Sally gave 10 starfish to Jason. Jason gave 22 starfish to Tim. How many starfish does Jason have now?",
+    "Ntr": 4,
+    "Answer": 9
+  },
+ {
+    "Index": 154,
+    "Question": "Craig has 22 apples. Judy has 10 apples. Mike has 8 apples. Judy shares 7 apples with Craig. Craig gave 20 apples to Mike. Mike gave 22 apples to Judy. Judy gave 23 apples to Craig. How many apples does Judy have now?",
+    "Ntr": 4,
+    "Answer": 2
+  },
+ {
+    "Index": 155,
+    "Question": "Melanie picked 17 plums and 14 oranges from the orchard. Sam has 16 plums. Daniel has 10 oranges. Melanie gave 13 plums to Sam. Melanie gave 8 oranges to Daniel. Sam gave 25 plums to Melanie. How many plums does Melanie have now?",
+    "Ntr": 4,
+    "Answer": 29
+  },
+ {
+    "Index": 156,
+    "Question": "Sandy grew 16 carrots. Sam grew 13 carrots. Joan grew 57 carrots. Sandy gave 15 carrots to Sam. Sam gave 20 carrots to Joan. John gave 60 carrots to Sandy. Joan gave 12 carrots to Sam. How many carrots does Joan have now?",
+    "Ntr": 4,
+    "Answer": 7
+  },
+ {
+    "Index": 157,
+    "Question": "Joan has 19 blue balloons. Tim has 45 blue balloons. Sally has 25 blue balloons. Sally gave 15 blue balloons to Joan. Joan gave 21 blue balloons to Sally. Tim gave 30 blue balloons to Joan. Joan gave 22 blue balloons to Sally.  How many blue balloons does Joan have now?",
+    "Ntr": 4,
+    "Answer": 21
+  },
+ {
+    "Index": 158,
+    "Question": "Michelle has 12 crayons. Janet has 12 crayons. Jill has 6 crayons. Janet gave 5 crayons to Michelle. Janet gave 6 crayons to Jill. Michelle gave 7 crayons to Janet. Janet gave 5 crayons to Michelle. How many crayons does Michelle have now?",
+    "Ntr": 4,
+    "Answer": 15
+  },
+ {
+    "Index": 159,
+    "Question": "Willie has 48 bananas. Charles has 14 bananas. Sara has 13 bananas. Willie gave 20 bananas to Charles. Charles gave 27 bananas to Willie. Willie gave 30 bananas to Sara. Sara gave 18 bananas to Charles. How many bananas does Charles have now?",
+    "Ntr": 4,
+    "Answer": 25
+  },
+ {
+    "Index": 160,
+    "Question": "Craig has 20 apples. Judy has 11 apples. Sara has 2 apples. Judy shares 7 apples with Craig. Judy gave 3 apples to Sara. Craig gave 15 apples to Sara. Sara gave 16 apples to Judy. How many apples does Sara have now?",
+    "Ntr": 4,
+    "Answer": 4
+  },
+ {
+    "Index": 161,
+    "Question": "Cade had 87 marbles. Joan has 67 marbles. Isha has 96 marbles. Cade gave 8 marbles to Isha. Joan gave 34 marbles to Cade. Joan gave 13 marbles to Isha. Isha gave 50 marbles to Cade. How many marbles does Cade have now?",
+    "Ntr": 4,
+    "Answer": 163
+  },
+ {
+    "Index": 162,
+    "Question": "Sheridan has 22 fish. Craig has 16 fish. Sara has 80 fish. Sara gave Sheridan 47 more fish. Sara gave 10 fish to Craig. Craig gave 19 fish to Sheridan. Sheridan gave 38 fish to Sara.  How many fish does Sara have now?",
+    "Ntr": 4,
+    "Answer": 61
+  },
+ {
+    "Index": 163,
+    "Question": "Roger had 160 dollars. Sam had 2 dollars. Sandy had 90 dollars. Roger transferred 90 dollars to Sam. Sam gave 33 dollars to Sandy. Sandy gave 6 dollars to Roger. Sandy gave 67 dollars to Sam. How many dollars does Sandy have now?",
+    "Ntr": 4,
+    "Answer": 50
+  },
+ {
+    "Index": 164,
+    "Question": "Sara had 81 quarters in her bank. Cade has 19 quarters. Jill has 65 quarters. Sara gave Jill 49 more quarters. Sara gave 28 quarters to cade. Jill gave 12 quarters to Sara. Jill gave 45 quarters to Cade. How many quarters does Cade have now?",
+    "Ntr": 4,
+    "Answer": 92
+  },
+ {
+    "Index": 165,
+    "Question": "Joan found 70 seashells. Sam found 20 seashells. Stephen found 15 seashells. Joan gave Sam 20 of her seashells. Joan gave 13 seashells to Stephen. Sam gave 18 seashells to Joan. Stephen gave 9 seashells to Sam. How many seashells does Sam have now?",
+    "Ntr": 4,
+    "Answer": 31
+  },
+ {
+    "Index": 166,
+    "Question": "Tom has 12 yellow balloons. Bob has 46 blue balloons. Sara has 14 yellow balloons. Sara gave 10 yellow balloons to Tom. Tom gave 18 blue balloons to Bob. Bob gave 39 yellow balloons to Sara. Tom gave 2 yellow balloons to Sara. How many blue balloons does Sara have now?",
+    "Ntr": 4,
+    "Answer": 45
+  },
+ {
+    "Index": 167,
+    "Question": "Stephen has 5 books. Daniel has 27 books. Daniel has 4 pens. Mike has 7 books. Daniel gave 20 books to Stephen. Stephen gave 9 books to Mike. Mike gave 14 books to Daniel. Daniel gave 2 pens to Stephen. How many pens does Daniel have now?",
+    "Ntr": 4,
+    "Answer": 2
+  },
+ {
+    "Index": 168,
+    "Question": "Mike bought 100 apples. Alyssa bought 30 apples. Tim bought 82 apples. Mike took 12 apples from Alyssa. Tim gave 23 apples to Alyssa. Alyssa gave 25 apples to Mike. Mike gave 63 apples to Tim. How many apples does Mike have now?",
+    "Ntr": 4,
+    "Answer": 74
+  },
+ {
+    "Index": 169,
+    "Question": "Jessica has 12 red marbles and 34 yellow marbles. Sara has 14 red marbles and 27 yellow marbles. Sally has 39 red marbles. Jessica gave 20 yellow marbles to Sara. Sally gave 27 red marbles to Jessica. Sara gave 32 yellow marbles to Jessica. Jessica gave 11 red marbles to Sara.  How many red marbles does Jessica have now?",
+    "Ntr": 4,
+    "Answer": 28
+  },
+ {
+    "Index": 170,
+    "Question": "Sam had 9 dimes in his bank. Mike had 12 dimes. Craig has 63 dimes. Mike gave Sam 7 dimes. Mike gave 2 dimes to Craig. Craig gave 44 dimes to Sam. Sam gave 19 dimes to Mike. How many dimes does Mike have now?",
+    "Ntr": 4,
+    "Answer": 22
+  },
+ {
+    "Index": 171,
+    "Question": "Liam had 24 apples. Noah had 18 apples. Emma had 16 apples. Liam gave 9 apples to Noah. Noah gave 7 apples to Emma. Emma gave 6 apples to Liam. Liam gave 5 apples to Noah. How many apples does Liam have now?",
+    "Ntr": 4,
+    "Answer": 16
+  },
+  {
+    "Index": 172,
+    "Question": "Sophia had 22 pencils. Olivia had 15 pencils. Ethan had 18 pencils. Olivia gave 9 pencils to Sophia. Ethan gave 7 pencils to Olivia. Sophia gave 8 pencils to Ethan. Ethan gave 6 pencils to Sophia. How many pencils does Ethan have now?",
+    "Ntr": 4,
+    "Answer": 13
+  },
+  {
+    "Index": 173,
+    "Question": "Daniel had 27 marbles. Lucas had 14 marbles. Ava had 19 marbles. Lucas gave 9 marbles to Daniel. Ava gave 6 marbles to Lucas. Daniel gave 8 marbles to Ava. Ava gave 7 marbles to Daniel. How many marbles does Daniel have now?",
+    "Ntr": 4,
+    "Answer": 35
+  },
+  {
+    "Index": 174,
+    "Question": "Ethan had 16 oranges. Jack had 12 oranges. Lily had 21 oranges. Jack gave 7 oranges to Ethan. Lily gave 8 oranges to Jack. Ethan gave 6 oranges to Lily. Lily gave 5 oranges to Ethan. How many oranges does Lily have now?",
+    "Ntr": 4,
+    "Answer": 14
+  },
+  {
+    "Index": 175,
+    "Question": "Grace had 18 red balloons. Henry had 23 red balloons. Charlotte had 16 red balloons. Henry gave 9 red balloons to Grace. Charlotte gave 6 red balloons to Henry. Grace gave 8 red balloons to Charlotte. Charlotte gave 7 red balloons to Grace. How many red balloons does Henry have now?",
+    "Ntr": 4,
+    "Answer": 20
+  },
+  {
+    "Index": 176,
+    "Question": "Mason had 25 crayons. Ella had 19 crayons. Harper had 15 crayons. Mason gave 11 crayons to Ella. Harper gave 7 crayons to Mason. Ella gave 6 crayons to Harper. Harper gave 5 crayons to Ella. How many crayons does Harper have now?",
+    "Ntr": 4,
+    "Answer": 9
+  },
+  {
+    "Index": 177,
+    "Question": "Ava had 19 strawberries. Mia had 17 strawberries. Daniel had 14 strawberries. Mia gave 9 strawberries to Ava. Daniel gave 8 strawberries to Mia. Ava gave 6 strawberries to Daniel. Daniel gave 7 strawberries to Ava. How many strawberries does Ava have now?",
+    "Ntr": 4,
+    "Answer": 29
+  },
+  {
+    "Index": 178,
+    "Question": "Michael had 18 notebooks. William had 14 notebooks. Emma had 22 notebooks. William gave 7 notebooks to Michael. Emma gave 9 notebooks to William. Michael gave 6 notebooks to Emma. Emma gave 8 notebooks to William. How many notebooks does Emma have now?",
+    "Ntr": 4,
+    "Answer": 11
+  },
+  {
+    "Index": 179,
+    "Question": "Oliver had 16 toy cars. Benjamin had 12 toy cars. Liam had 20 toy cars. Benjamin gave 9 toy cars to Oliver. Liam gave 7 toy cars to Benjamin. Oliver gave 8 toy cars to Liam. Liam gave 6 toy cars to Oliver. How many toy cars does Benjamin have now?",
+    "Ntr": 4,
+    "Answer": 10
+  },
+  {
+    "Index": 180,
+    "Question": "Isabella had 28 apples. Jack had 15 apples. Grace had 19 apples. Jack gave 8 apples to Isabella. Grace gave 7 apples to Jack. Isabella gave 9 apples to Grace. Grace gave 6 apples to Isabella. How many apples does Isabella have now?",
+    "Ntr": 4,
+    "Answer": 33
+  },
+  {
+    "Index": 181,
+    "Question": "Lucas had 20 candies. Henry had 13 candies. Emily had 17 candies. Henry gave 6 candies to Lucas. Emily gave 7 candies to Henry. Lucas gave 8 candies to Emily. Emily gave 5 candies to Lucas. How many candies does Henry have now?",
+    "Ntr": 4,
+    "Answer": 14
+  },
+  {
+    "Index": 182,
+    "Question": "Charlotte had 25 pencils. Ella had 14 pencils. Liam had 20 pencils. Ella gave 8 pencils to Charlotte. Liam gave 9 pencils to Ella. Charlotte gave 7 pencils to Liam. Liam gave 5 pencils to Charlotte. How many pencils does Charlotte have now?",
+    "Ntr": 4,
+    "Answer": 31
+  },
+  {
+    "Index": 183,
+    "Question": "Noah had 19 marbles. Mason had 13 marbles. Ava had 22 marbles. Mason gave 9 marbles to Noah. Ava gave 7 marbles to Mason. Noah gave 8 marbles to Ava. Ava gave 5 marbles to Noah. How many marbles does Mason have now?",
+    "Ntr": 4,
+    "Answer": 11
+  },
+  {
+    "Index": 184,
+    "Question": "Harper had 22 crayons. Sophia had 19 crayons. Daniel had 15 crayons. Sophia gave 8 crayons to Harper. Daniel gave 6 crayons to Sophia. Harper gave 9 crayons to Daniel. Daniel gave 5 crayons to Sophia. How many crayons does Sophia have now?",
+    "Ntr": 4,
+    "Answer": 22
+  },
+  {
+    "Index": 185,
+    "Question": "Amelia had 27 oranges. Olivia had 12 oranges. Ethan had 18 oranges. Olivia gave 9 oranges to Amelia. Ethan gave 7 oranges to Olivia. Amelia gave 8 oranges to Ethan. Ethan gave 6 oranges to Amelia. How many oranges does Olivia have now?",
+    "Ntr": 4,
+    "Answer": 10
+  },
+  {
+    "Index": 186,
+    "Question": "Jack had 21 bananas. Liam had 16 bananas. Grace had 14 bananas. Liam gave 9 bananas to Jack. Grace gave 6 bananas to Liam. Jack gave 7 bananas to Grace. Grace gave 8 bananas to Liam. How many bananas does Grace have now?",
+    "Ntr": 4,
+    "Answer": 7
+  },
+  {
+    "Index": 187,
+    "Question": "Mia had 18 cupcakes. Lucas had 22 cupcakes. Emma had 15 cupcakes. Lucas gave 8 cupcakes to Mia. Emma gave 7 cupcakes to Lucas. Mia gave 9 cupcakes to Emma. Emma gave 6 cupcakes to Lucas. How many cupcakes does Lucas have now?",
+    "Ntr": 4,
+    "Answer": 27
+  },
+  {
+    "Index": 188,
+    "Question": "Ethan had 23 candies. Olivia had 19 candies. Mason had 16 candies. Olivia gave 9 candies to Ethan. Mason gave 6 candies to Olivia. Ethan gave 7 candies to Mason. Mason gave 5 candies to Olivia. How many candies does Ethan have now?",
+    "Ntr": 4,
+    "Answer": 25
+  },
+  {
+    "Index": 189,
+    "Question": "Grace had 17 books. Benjamin had 12 books. Charlotte had 19 books. Benjamin gave 8 books to Grace. Charlotte gave 7 books to Benjamin. Grace gave 6 books to Charlotte. Charlotte gave 5 books to Grace. How many books does Charlotte have now?",
+    "Ntr": 4,
+    "Answer": 13
+  },
+  {
+    "Index": 190,
+    "Question": "Sophia had 15 red balloons. Emma had 18 red balloons. Noah had 20 red balloons. Emma gave 9 red balloons to Sophia. Noah gave 8 red balloons to Emma. Sophia gave 7 red balloons to Noah. Noah gave 5 red balloons to Emma. How many red balloons does Emma have now?",
+    "Ntr": 4,
+    "Answer": 22
+  },
+  {
+    "Index": 191,
+    "Question": "Daniel had 24 plums. Jack had 13 plums. Isabella had 20 plums. Jack gave 8 plums to Daniel. Isabella gave 7 plums to Jack. Daniel gave 9 plums to Isabella. Isabella gave 5 plums to Daniel. How many plums does Jack have now?",
+    "Ntr": 4,
+    "Answer": 12
+  },
+  {
+    "Index": 192,
+    "Question": "Liam had 18 toy trucks. Mason had 23 toy trucks. Ava had 14 toy trucks. Mason gave 9 toy trucks to Liam. Ava gave 8 toy trucks to Mason. Liam gave 7 toy trucks to Ava. Ava gave 6 toy trucks to Liam. How many toy trucks does Mason have now?",
+    "Ntr": 4,
+    "Answer": 22
+  },
+  {
+    "Index": 193,
+    "Question": "Evelyn had 19 erasers. Harper had 21 erasers. Michael had 17 erasers. Harper gave 9 erasers to Evelyn. Michael gave 6 erasers to Harper. Evelyn gave 7 erasers to Michael. Michael gave 5 erasers to Evelyn. How many erasers does Harper have now?",
+    "Ntr": 4,
+    "Answer": 18
+  },
+  {
+    "Index": 194,
+    "Question": "Oliver had 20 mangoes. Henry had 16 mangoes. Emma had 24 mangoes. Henry gave 8 mangoes to Oliver. Emma gave 7 mangoes to Henry. Oliver gave 9 mangoes to Emma. Emma gave 6 mangoes to Henry. How many mangoes does Henry have now?",
+    "Ntr": 4,
+    "Answer": 21
+  },
+  {
+    "Index": 195,
+    "Question": "Noah had 23 crayons. Lily had 19 crayons. Grace had 14 crayons. Lily gave 8 crayons to Noah. Grace gave 7 crayons to Lily. Noah gave 6 crayons to Grace. Grace gave 5 crayons to Lily. How many crayons does Noah have now?",
+    "Ntr": 4,
+    "Answer": 25
+  },
+  {
+    "Index": 196,
+    "Question": "Charlotte had 27 oranges. Jack had 15 oranges. Daniel had 20 oranges. Jack gave 8 oranges to Charlotte. Daniel gave 7 oranges to Jack. Charlotte gave 9 oranges to Daniel. Daniel gave 5 oranges to Charlotte. How many oranges does Daniel have now?",
+    "Ntr": 4,
+    "Answer": 17
+  },
+  {
+    "Index": 197,
+    "Question": "Olivia had 19 candies. Sophia had 13 candies. Ethan had 22 candies. Sophia gave 7 candies to Olivia. Ethan gave 9 candies to Sophia. Olivia gave 6 candies to Ethan. Ethan gave 5 candies to Sophia. How many candies does Sophia have now?",
+    "Ntr": 4,
+    "Answer": 20
+  },
+  {
+    "Index": 198,
+    "Question": "Benjamin had 16 books. William had 19 books. Emma had 23 books. William gave 9 books to Benjamin. Emma gave 8 books to William. Benjamin gave 7 books to Emma. Emma gave 5 books to William. How many books does Emma have now?",
+    "Ntr": 4,
+    "Answer": 17
+  },
+  {
+    "Index": 199,
+    "Question": "Ethan had 22 strawberries. Mason had 15 strawberries. Ava had 20 strawberries. Mason gave 7 strawberries to Ethan. Ava gave 9 strawberries to Mason. Ethan gave 8 strawberries to Ava. Ava gave 6 strawberries to Ethan. How many strawberries does Ava have now?",
+    "Ntr": 4,
+    "Answer": 13
+  },
+  {
+    "Index": 200,
+    "Question": "Lucas had 21 apples. Grace had 16 apples. Noah had 18 apples. Grace gave 9 apples to Lucas. Noah gave 6 apples to Grace. Lucas gave 7 apples to Noah. Noah gave 5 apples to Grace. How many apples does Grace have now?",
+    "Ntr": 4,
+    "Answer": 18
+  }
+]
