@@ -1,1 +1,80 @@
+This document provides information on the TC Ontology and the OWL files uploaded in this folder.
+
+TC Ontology
+
+The OWL files uploaded under this folder use the following vocabulary.
+
+Abbreviations for concepts and properties (or detailed information on concepts/properties):
+
+Concepts
+
+1. AWP - arithmetic word problem (represents word problems)
+2. BT - before transfer (represents before transfer type sentences from the problem text)
+3. TR - transfer (represents transfer type sentences from the problem text)
+4. AT - after transfer (represents after transfer type sentences from the problem text)
+5. QS - question (represents question type sentence from the problem text)
+6. Agent - represents agents from the problem text
+7. TCQuantity - represents all the quantities from the problem text (BTQuantity, TRQuantity, and ATQuantity are subclasses of TCQuantity)
+8. BTQuantity - represents quantities from the BT type of sentences
+9. TRQuantity - represents quantities from the TR type of sentences
+10. ATQuantity - represents quantities from the AT type of sentences
+
+Object Properties
+1. hasBT - captures relationship between AWP and BT concepts [abbreviation of: has before transfer type sentence] [domain: AWP, range: BT]
+2. hasTR - captures relationship between AWP and TR concepts [abbreviation of: has transfer type sentence] [domain: AWP, range: TR]
+3. hasAT - captures relationship between AWP and AT concepts [abbreviation of: has after transfer type sentence] [domain: AWP, range: AT]
+4. hasQS - captures relationship between AWP and QS concepts [abbreviation of: has question type sentence] [domain: AWP, range: QS]
+5. involvesAgentBT - captures relationship between BT and Agent concepts [abbreviation of: BT type sentence involves an agent] [domain: BT, range: Agent]
+6. involvesAgentAT - captures relationship between AT and Agent concepts [abbreviation of: AT type sentence involves an agent] [domain: AT, range: Agent]
+7. hasToAgent - captures relationship between TR and Agent concepts [abbreviation of: TR type sentence has a ToAgent] [domain: TR, range: Agent]
+8. hasFromAgent - captures relationship between TR and Agent concepts [abbreviation of: TR type sentence has a FromAgent] [domain: TR, range: Agent]
+9. hasQuant - captures relationships between Agent and BTQuantity concepts [abbreviation of: agent has/owns a quantity] [domain: Agent, range: BTQuantity]
+10. hasLost - captures relationships between Agent and TRQuantity concepts [abbreviation of: agent has lost a quantity] [domain: Agent, range: TRQuantity]
+11. hasGained - captures relationships between Agent and TRQuantity concepts [abbreviation of: agent has gained a quantity] [domain: Agent, range: TRQuantity]
+12. asksAbout - captures relationships between QS and Agent concepts [abbreviation: Question asks about an Agent] [domain: QS, range: Agent]
+
+Data Properties
+1. quantValue - captures the value of the quantity
+2. quantType - captures the type of the quantity
+3. hasUpdatedValue - this property is used to capture a scenario when any quantity receives an updated value during computation
+4. hasSequenceNumber - this property is used to capture the sequence number of sentences, and utilized while generating the complex problems from simple ones
+5. hasTransferSequence - captures the sequence of object transfers taking place.
+6. asksObjType - this property captures information from the QS type sentence regarding about which object question is seeking information
+
+
+
+Some of the properties (such as- hasGained, hasLost, involvesAgentBT, involvesAgentAT) which are not used during ABox initialization (in the OWL files) are devised to address another challenging task. In that task we attempt to address the mathematical-validity-checking problem. That is a different piece of work.
+
+We used Protege tool to develop the TC ontology and utilized the Pellet reasoner.
+
+We have uploaded four OWL files.
+a) TC_Onto_without_ABox_Initialization.owl : This file represents the TC Ontology used in this work (which is an extension of the TC ontology used in our previous works). In this owl file, we do not initialize the ABox. 
+
+The three owl files mentioned next include the ABox. The ABox is initialized using the information extracted from the following TC word problem.
+Normal Text: Stephen has 17 books and 12 pencils. Daniel has 10 books, 2 pens and 13 pencils. Mike has 15 books. Daniel gave 12 pencils to Stephen and 8 books to Mike. Mike gave 2 books to Stephen. How many books does Mike have now ?
+
+Preprocessed Text: Agent1 has 17 books. Agent1 has 12 pencils. Agent2 has 10 books. Agent2 has 2 pens. Agent2 has 13 pencils. Agent3 has 15 books. Agent2 gave 12 pencils to Agent1. Agent2 gave 8 books to Agent3. Agent3 gave 2 books to Agent1. How many books does Agent3 have now ?
+
+The information is extracted from the preprocessed text using BERT-based language models. 
+
+The above transfer-type word problem involves three object transfers. 
+
+b) P1_1.owl : After running the reasoner, it represents the state of the ontology after the first object-transfer. Inferences made by the reasoner (i.e. updated values) are written into the ontology using python script. See Q2 and Q5 quantities under individuals.
+
+c) P1_2.owl : After running the reasoner, it represents the state of the ontology after the second object-transfer. Inferences made by the reasoner (i.e. updated values) are written into the ontology using python script. See Q3 and Q6 quantities under individuals.
+
+d) P1_3.owl : After running the reasoner, it represents the state of the ontology after the third object-transfer. Inferences made by the reasoner (i.e. updated values) are written into the ontology using python script. See Q2 and Q5 quantities under individuals.
+
+Now the posed question (in the QS type sentence) can be answered using the final values available in the ontology.
+
+
+All the three owl files (P1_1, P1_2, P1_3) use the following SWRL rule (also refer Figure 7, page 9 of the manuscript). In Protege, it can be found under the SWRL tab. In P1_1, P1_2, and P1_3 OWL files, l value is initialized by 1, 2, and 3, respectively. Which represents the sequence of the object transfer.
+
+AWP(?p) ^ hasTR(?p, ?tr) ^ hasTransferSequence(?tr, l) ^ hasFromAgent(?tr, ?ag1) ^ hasToAgent(?tr, ?ag2) ^ hasTRQuantity(?tr, ?trq) ^ hasQuant(?ag1, ?q1) ^
+quantValue(?q1, ?v1) ^ quantType(?q1, ?t1) ^ hasQuant(?ag2, ?q2) ^ quantValue(?q2, ?v2) ^ quantType(?q2, ?t2) ^ quantValue(?trq, ?trqv) ^ 
+quantType(?trq, ?trqt) ^ swrlb:equal(?t1, ?t2) ^ swrlb:equal(?t1, ?trqt) ^ swrlb:subtract(?vs, ?v1, ?trqv) ^ swrlb:add(?va, ?v2, ?trqv) 
+-> hasUpdatedValue(?q1, ?vs) ^ hasUpdatedValue(?q2, ?va)
+
+
+
 
