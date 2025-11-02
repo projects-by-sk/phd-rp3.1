@@ -1,0 +1,611 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#"
+     xml:base="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+     xmlns:swrl2="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#"
+     xmlns:swrlb="http://www.w3.org/2003/11/swrlb#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled -->
+
+    <owl:AnnotationProperty rdf:about="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasAT -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasAT">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#AWP"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#AT"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasBT -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasBT">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#AWP"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#BT"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasFromAgent -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasFromAgent">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TR"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#Agent"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasGained -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasGained"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasLost -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasLost"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasQS -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasQS">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#AWP"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#QS"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasQuant -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasQuant">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#Agent"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TCQuantity"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasTR -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasTR">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#AWP"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TR"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasTRQuantity -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasTRQuantity">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TR"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TRQuantity"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasToAgent -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasToAgent">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TR"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#Agent"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#involvesAgentAT -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#involvesAgentAT"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#involvesAgentBT -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#involvesAgentBT"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#asksAbout -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#asksAbout"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#asksObjType -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#asksObjType"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasSequenceNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasSequenceNumber"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasTransferSequence -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasTransferSequence"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasUpdatedValue -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasUpdatedValue"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#quantType -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#quantType">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#quantValue -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#quantValue">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#AT -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#AT"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#ATQuantity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#ATQuantity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TCQuantity"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#BTQuantity"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TRQuantity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#AWP -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#AWP"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#Agent -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#Agent"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#BT -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#BT"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#BTQuantity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#BTQuantity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TCQuantity"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TRQuantity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#QS -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#QS"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TCQuantity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TCQuantity"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TR -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TR"/>
+    
+
+
+    <!-- http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TRQuantity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TRQuantity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#TCQuantity"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Rules
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#p">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#tr">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#ag1">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#ag2">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#trq">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#q1">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#v1">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#t1">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#q2">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#v2">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#t2">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#trqv">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#trqt">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#vs">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#va">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description>
+        <swrl2:isRuleEnabled rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</swrl2:isRuleEnabled>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S1</rdfs:label>
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
+        <swrl:body>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#AWP"/>
+                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#p"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                        <rdf:first>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasTR"/>
+                                <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#p"/>
+                                <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#tr"/>
+                            </rdf:Description>
+                        </rdf:first>
+                        <rdf:rest>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                <rdf:first>
+                                    <rdf:Description>
+                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasTransferSequence"/>
+                                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#tr"/>
+                                        <swrl:argument2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrl:argument2>
+                                    </rdf:Description>
+                                </rdf:first>
+                                <rdf:rest>
+                                    <rdf:Description>
+                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                        <rdf:first>
+                                            <rdf:Description>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasFromAgent"/>
+                                                <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#tr"/>
+                                                <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#ag1"/>
+                                            </rdf:Description>
+                                        </rdf:first>
+                                        <rdf:rest>
+                                            <rdf:Description>
+                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                <rdf:first>
+                                                    <rdf:Description>
+                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasToAgent"/>
+                                                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#tr"/>
+                                                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#ag2"/>
+                                                    </rdf:Description>
+                                                </rdf:first>
+                                                <rdf:rest>
+                                                    <rdf:Description>
+                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                        <rdf:first>
+                                                            <rdf:Description>
+                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasTRQuantity"/>
+                                                                <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#tr"/>
+                                                                <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#trq"/>
+                                                            </rdf:Description>
+                                                        </rdf:first>
+                                                        <rdf:rest>
+                                                            <rdf:Description>
+                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                <rdf:first>
+                                                                    <rdf:Description>
+                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasQuant"/>
+                                                                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#ag1"/>
+                                                                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#q1"/>
+                                                                    </rdf:Description>
+                                                                </rdf:first>
+                                                                <rdf:rest>
+                                                                    <rdf:Description>
+                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                        <rdf:first>
+                                                                            <rdf:Description>
+                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#quantValue"/>
+                                                                                <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#q1"/>
+                                                                                <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#v1"/>
+                                                                            </rdf:Description>
+                                                                        </rdf:first>
+                                                                        <rdf:rest>
+                                                                            <rdf:Description>
+                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                <rdf:first>
+                                                                                    <rdf:Description>
+                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#quantType"/>
+                                                                                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#q1"/>
+                                                                                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#t1"/>
+                                                                                    </rdf:Description>
+                                                                                </rdf:first>
+                                                                                <rdf:rest>
+                                                                                    <rdf:Description>
+                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                        <rdf:first>
+                                                                                            <rdf:Description>
+                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasQuant"/>
+                                                                                                <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#ag2"/>
+                                                                                                <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#q2"/>
+                                                                                            </rdf:Description>
+                                                                                        </rdf:first>
+                                                                                        <rdf:rest>
+                                                                                            <rdf:Description>
+                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                                <rdf:first>
+                                                                                                    <rdf:Description>
+                                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                                                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#quantValue"/>
+                                                                                                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#q2"/>
+                                                                                                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#v2"/>
+                                                                                                    </rdf:Description>
+                                                                                                </rdf:first>
+                                                                                                <rdf:rest>
+                                                                                                    <rdf:Description>
+                                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                                        <rdf:first>
+                                                                                                            <rdf:Description>
+                                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                                                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#quantType"/>
+                                                                                                                <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#q2"/>
+                                                                                                                <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#t2"/>
+                                                                                                            </rdf:Description>
+                                                                                                        </rdf:first>
+                                                                                                        <rdf:rest>
+                                                                                                            <rdf:Description>
+                                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                                                <rdf:first>
+                                                                                                                    <rdf:Description>
+                                                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                                                                                                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#quantValue"/>
+                                                                                                                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#trq"/>
+                                                                                                                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#trqv"/>
+                                                                                                                    </rdf:Description>
+                                                                                                                </rdf:first>
+                                                                                                                <rdf:rest>
+                                                                                                                    <rdf:Description>
+                                                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                                                        <rdf:first>
+                                                                                                                            <rdf:Description>
+                                                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                                                                                                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#quantType"/>
+                                                                                                                                <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#trq"/>
+                                                                                                                                <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#trqt"/>
+                                                                                                                            </rdf:Description>
+                                                                                                                        </rdf:first>
+                                                                                                                        <rdf:rest>
+                                                                                                                            <rdf:Description>
+                                                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                                                                <rdf:first>
+                                                                                                                                    <rdf:Description>
+                                                                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#BuiltinAtom"/>
+                                                                                                                                        <swrl:builtin rdf:resource="http://www.w3.org/2003/11/swrlb#equal"/>
+                                                                                                                                        <swrl:arguments rdf:parseType="Collection">
+                                                                                                                                            <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#t1"/>
+                                                                                                                                            <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#t2"/>
+                                                                                                                                        </swrl:arguments>
+                                                                                                                                    </rdf:Description>
+                                                                                                                                </rdf:first>
+                                                                                                                                <rdf:rest>
+                                                                                                                                    <rdf:Description>
+                                                                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                                                                        <rdf:first>
+                                                                                                                                            <rdf:Description>
+                                                                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#BuiltinAtom"/>
+                                                                                                                                                <swrl:builtin rdf:resource="http://www.w3.org/2003/11/swrlb#equal"/>
+                                                                                                                                                <swrl:arguments rdf:parseType="Collection">
+                                                                                                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#t1"/>
+                                                                                                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#trqt"/>
+                                                                                                                                                </swrl:arguments>
+                                                                                                                                            </rdf:Description>
+                                                                                                                                        </rdf:first>
+                                                                                                                                        <rdf:rest>
+                                                                                                                                            <rdf:Description>
+                                                                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                                                                                <rdf:first>
+                                                                                                                                                    <rdf:Description>
+                                                                                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#BuiltinAtom"/>
+                                                                                                                                                        <swrl:builtin rdf:resource="http://www.w3.org/2003/11/swrlb#subtract"/>
+                                                                                                                                                        <swrl:arguments rdf:parseType="Collection">
+                                                                                                                                                            <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#vs"/>
+                                                                                                                                                            <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#v1"/>
+                                                                                                                                                            <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#trqv"/>
+                                                                                                                                                        </swrl:arguments>
+                                                                                                                                                    </rdf:Description>
+                                                                                                                                                </rdf:first>
+                                                                                                                                                <rdf:rest>
+                                                                                                                                                    <rdf:Description>
+                                                                                                                                                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                                                                                                                                                        <rdf:first>
+                                                                                                                                                            <rdf:Description>
+                                                                                                                                                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#BuiltinAtom"/>
+                                                                                                                                                                <swrl:builtin rdf:resource="http://www.w3.org/2003/11/swrlb#add"/>
+                                                                                                                                                                <swrl:arguments rdf:parseType="Collection">
+                                                                                                                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#va"/>
+                                                                                                                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#v2"/>
+                                                                                                                                                                    <rdf:Description rdf:about="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#trqv"/>
+                                                                                                                                                                </swrl:arguments>
+                                                                                                                                                            </rdf:Description>
+                                                                                                                                                        </rdf:first>
+                                                                                                                                                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                                                                                                                                                    </rdf:Description>
+                                                                                                                                                </rdf:rest>
+                                                                                                                                            </rdf:Description>
+                                                                                                                                        </rdf:rest>
+                                                                                                                                    </rdf:Description>
+                                                                                                                                </rdf:rest>
+                                                                                                                            </rdf:Description>
+                                                                                                                        </rdf:rest>
+                                                                                                                    </rdf:Description>
+                                                                                                                </rdf:rest>
+                                                                                                            </rdf:Description>
+                                                                                                        </rdf:rest>
+                                                                                                    </rdf:Description>
+                                                                                                </rdf:rest>
+                                                                                            </rdf:Description>
+                                                                                        </rdf:rest>
+                                                                                    </rdf:Description>
+                                                                                </rdf:rest>
+                                                                            </rdf:Description>
+                                                                        </rdf:rest>
+                                                                    </rdf:Description>
+                                                                </rdf:rest>
+                                                            </rdf:Description>
+                                                        </rdf:rest>
+                                                    </rdf:Description>
+                                                </rdf:rest>
+                                            </rdf:Description>
+                                        </rdf:rest>
+                                    </rdf:Description>
+                                </rdf:rest>
+                            </rdf:Description>
+                        </rdf:rest>
+                    </rdf:Description>
+                </rdf:rest>
+            </rdf:Description>
+        </swrl:body>
+        <swrl:head>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasUpdatedValue"/>
+                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#q1"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#vs"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                        <rdf:first>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
+                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#hasUpdatedValue"/>
+                                <swrl:argument1 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#q2"/>
+                                <swrl:argument2 rdf:resource="http://www.semanticweb.org/91759/ontologies/2020/2/untitled-ontology-7#va"/>
+                            </rdf:Description>
+                        </rdf:first>
+                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                    </rdf:Description>
+                </rdf:rest>
+            </rdf:Description>
+        </swrl:head>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
