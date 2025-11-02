@@ -1,1 +1,1002 @@
+AWP-Sentence,Type-of-Sentence
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Stephen has 15 books,beforeState
+Daniel now has 40 books,afterState
+Daniel gave him 12 books,transferState
+Tom has 9.0 yellow balloons,beforeState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Tom has 9.0 red balloons,beforeState
+Sara now has 8.0 red balloons,afterState
+How many red balloons do they have in total ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+How many dimes does Sam have now ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+Joan now has 6.0 seashells,afterState
+Jessica found 8.0 seashells on the beach,beforeState
+How many seashells did they find together ?,questionState
+Joan found 6.0 seashells,beforeState
+Jessica found 8.0 seashells on the beach,beforeState
+Sandy now has 6.0 carrots,afterState
+Sam grew 3.0 carrots,beforeState
+How many carrots did they grow in total ?,questionState
+Sandy grew 6.0 carrots,beforeState
+Sam grew 3.0 carrots,beforeState
+Benny picked 2.0 apples,beforeState
+Dan picked 9.0 apples from the apple tree,beforeState
+How many apples were picked in total ?,questionState
+Benny picked 2.0 apples,beforeState
+Dan picked 9.0 apples from the apple tree,beforeState
+Tims cat had kittens,beforeState
+He gave 3.0 to Jessica and 6.0 to Sara,transferState
+He now has 9.0 kittens,beforeState
+How many kittens did he have to start with ?,questionState
+Tims cat had kittens,beforeState
+He gave 3.0 to Jessica and 6.0 to Sara,transferState
+He now has 9.0 kittens,beforeState
+How many kittens did he have to start with ?,questionState
+Joan has 9.0 blue balloons,beforeState
+Sally now has 5.0 blue balloons,afterState
+Jessica has 2.0 blue balloons,beforeState
+How many blue balloons do they have in total ?,questionState
+Joan has 9.0 blue balloons,beforeState
+Sally has 5.0 blue balloons,beforeState
+Jessica has 2.0 blue balloons,beforeState
+How many blue balloons do they have in total ?,questionState
+Melanie had 7.0 dimes in her bank,beforeState
+Her dad gave her 8.0 dimes,transferState
+her mother gave her 4.0 dimes,transferState
+How many dimes does Melanie have now ?,questionState
+elanie had 7.0 dimes in her bank,beforeState
+Her dad gave her 8.0 dimes,transferState
+her mother gave her 4.0 dimes,transferState
+How many dimes does Melanie have now ?,questionState
+Sara grew 4.0 onions,beforeState
+Sally grew 4.0 onions,beforeState
+Fred grew 4.0 onions,beforeState
+How many onions did they grow in all ?,questionState
+Sara grew 14.0 onions,beforeState
+Sally grew 8.0 onions,beforeState
+Tom now has 17 apples,afterState
+Fred grew 14.0 onions,beforeState
+How many onions did they grow in all ?,questionState
+Jason has 44.0 blue and 16.0 red marbles,beforeState
+Tom has 24.0 blue marbles,beforeState
+How many blue marbles do they have in all ?,questionState
+Jason has 44.0 blue and 16.0 red marbles,beforeState
+Tom has 24.0 blue marbles,beforeState
+Bob now has 17 books,afterState
+There are 11.0 rulers and 34.0 crayons in the drawer,beforeState
+Tim placed 14.0 rulers in the drawer,transferState
+How many rulers are now there in all ?,questionState
+There are 11.0 rulers and 34.0 crayons in the drawer,beforeState
+Tim placed 14.0 rulers in the drawer,transferState
+How many rulers are now there in all ?,questionState
+Keith has 20.0 books,beforeState
+Mike now has 14 pencils,afterState
+Jason has 21.0 books,beforeState
+How many books do they have together ?,questionState
+Keith has 20.0 books,beforeState
+Jason has 21.0 books,beforeState
+How many books do they have together ?,questionState
+Alyssas dog had puppies,beforeState
+She gave 7.0 to her friends,transferState
+She now has 5.0 puppies,afterState
+How many puppies did she have to start with ?,questionState
+Alyssas dog had puppies,beforeState
+She gave 7.0 to her friends,transferState
+She now has 5.0 puppies,afterState
+How many puppies did she have to start with ?,questionState
+Sara has 31.0 red and 15.0 green balloons,beforeState
+Sandy has 24.0 red balloons,beforeState
+How many red balloons do they have in total ?,questionState
+Sara has 31.0 red and 15.0 green balloons,beforeState
+Sandy has 24.0 red balloons,beforeState
+How many red balloons do they have in total ?,questionState
+Joan picked 37.0 oranges,beforeState
+Sara picked 10.0 oranges,beforeState
+Mike now has 2 pens,afterState
+Alyssa picked 30.0 pears,beforeState
+How many oranges were picked in total ?,questionState
+Joan picked 37.0 oranges,beforeState
+Sara picked 10.0 oranges,beforeState
+Sara now has 17 oranges,afterState
+Alyssa picked 30.0 pears,beforeState
+How many oranges were picked in total ?,questionState
+Joan has 40.0 blue balloons,beforeState
+Melanie has 41.0 blue balloon,beforeState
+How many blue balloons do they have in total ?,questionState
+Joan has 40.0 blue balloons,beforeState
+Melanie has 41.0 blue balloon,beforeState
+How many blue balloons do they have in total ?,questionState
+Sandy has 10.0 books,beforeState
+Benny has 24.0 books,beforeState
+Tim has 33.0 books,beforeState
+How many books do they have together ?,questionState
+Sandy has 10.0 books,beforeState
+Benny has 24.0 books,beforeState
+Sally now has 15 cookies,afterState
+Tim has 33.0 books,beforeState
+How many books do they have together ?,questionState
+Jason picked 46.0 pears,beforeState
+Keith picked 47.0 pears,beforeState
+Mike picked 12.0 pears from the pear tree,beforeState
+How many pears were picked in total ?,questionState
+Jason picked 46.0 pears,beforeState
+Keith picked 47.0 pears,beforeState
+Mike picked 12.0 pears from the pear tree,beforeState
+How many pears were picked in total ?,questionState
+Daniel had some books,beforeState
+He gave 5 books to Stephen,transferState
+He now has 10 books,afterState
+How many books did he have to start with ?,questionState
+Daniel had some books,beforeState
+He gave 5 books to Stephen,transferState
+He now has 10 books,afterState
+How many books did he have to start with ?,questionState
+Sally had 27.0 Pokemon cards,beforeState
+Dan gave her 41.0 new Pokemon cards,transferState
+Sally bought 20.0 Pokemon cards,beforeState
+How many Pokemon cards does Sally have now ?,questionState
+Sally had 27.0 Pokemon cards,beforeState
+Dan gave her 41.0 new Pokemon cards,transferState
+Sally bought 20.0 Pokemon cards,beforeState
+How many Pokemon cards does Sally have now ?,questionState
+Sally bought 20.0 Pokemon cards,beforeState
+Sally bought 20.0 Pokemon cards,beforeState
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Tom has 9.0 yellow balloons,beforeState
+Joan now has 28 dimes,afterState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Tom has 9.0 yellow balloons,beforeState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+How many dimes does Sam have now ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+How many dimes does Sam have now ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+Joan found 6.0 seashells,beforeState
+Jessica found 8.0 seashells on the beach,beforeState
+How many seashells did they find together ?,questionState
+Joan found 6.0 seashells,beforeState
+Jessica found 8.0 seashells on the beach,beforeState
+How many seashells did they find together ?,questionState
+Sandy grew 6.0 carrots,beforeState
+Sam grew 3.0 carrots,beforeState
+How many carrots did they grow in total ?,questionState
+Sandy grew 6.0 carrots,beforeState
+Sam grew 3.0 carrots,beforeState
+How many carrots did they grow in total ?,questionState
+Benny picked 2.0 apples,beforeState
+Dan picked 9.0 apples from the apple tree,beforeState
+How many apples were picked in total ?,questionState
+Benny picked 2.0 apples,beforeState
+Dan picked 9.0 apples from the apple tree,beforeState
+How many apples were picked in total ?,questionState
+Tims cat had kittens,beforeState
+He gave 3.0 to Jessica and 6.0 to Sara,transferState
+He now has 9.0 kittens,beforeState
+How many kittens did he have to start with ?,questionState
+Tims cat had kittens,beforeState
+He gave 3.0 to Jessica and 6.0 to Sara,transferState
+He now has 9.0 kittens,beforeState
+How many kittens did he have to start with ?,questionState
+Joan has 9.0 blue balloons,beforeState
+Sally has 5.0 blue balloons,beforeState
+Jessica has 2.0 blue balloons,beforeState
+How many blue balloons do they have in total ?,questionState
+Joan has 9.0 blue balloons,beforeState
+Sally has 5.0 blue balloons,beforeState
+Jessica has 2.0 blue balloons,beforeState
+How many blue balloons do they have in total ?,questionState
+elanie had 7.0 dimes in her bank,beforeState
+Her dad gave her 8.0 dimes,transferState
+her mother gave her 4.0 dimes,transferState
+How many dimes does Melanie have now ?,questionState
+elanie had 7.0 dimes in her bank,beforeState
+Her dad gave her 8.0 dimes,transferState
+her mother gave her 4.0 dimes,transferState
+How many dimes does Melanie have now ?,questionState
+Sara grew 4.0 onions,beforeState
+Sally grew 4.0 onions,beforeState
+Fred grew 4.0 onions,beforeState
+How many onions did they grow in all ?,questionState
+Sara grew 4.0 onions,beforeState
+Sally grew 4.0 onions,beforeState
+Fred grew 4.0 onions,beforeState
+How many onions did they grow in all ?,questionState
+Jason has 44.0 blue and 16.0 red marbles,beforeState
+Tom has 24.0 blue marbles,beforeState
+How many blue marbles do they have in all ?,questionState
+Jason has 44.0 blue and 16.0 red marbles,beforeState
+Tom has 24.0 blue marbles,beforeState
+How many blue marbles do they have in all ?,questionState
+There are 11.0 rulers and 34.0 crayons in the drawer,beforeState
+Tim placed 14.0 rulers in the drawer,transferState
+How many rulers are now there in all ?,questionState
+There are 11.0 rulers and 34.0 crayons in the drawer,beforeState
+Tim placed 14.0 rulers in the drawer,transferState
+How many rulers are now there in all ?,questionState
+Keith has 20.0 books,beforeState
+Jason has 21.0 books,beforeState
+How many books do they have together ?,questionState
+Keith has 20.0 books,beforeState
+Jason has 21.0 books,beforeState
+How many books do they have together ?,questionState
+Alyssas dog had puppies,beforeState
+She gave 7.0 to her friends,transferState
+She now has 5.0 puppies,afterState
+How many puppies did she have to start with ?,questionState
+Alyssas dog had puppies,beforeState
+She gave 7.0 to her friends,transferState
+She now has 5.0 puppies,afterState
+How many puppies did she have to start with ?,questionState
+Sara has 31.0 red and 15.0 green balloons,beforeState
+Sandy has 24.0 red balloons,beforeState
+How many red balloons do they have in total ?,questionState
+Sara has 31.0 red and 15.0 green balloons,beforeState
+Sandy has 24.0 red balloons,beforeState
+How many red balloons do they have in total ?,questionState
+Joan picked 37.0 oranges,beforeState
+Sara picked 10.0 oranges,beforeState
+Alyssa picked 30.0 pears,beforeState
+How many oranges were picked in total ?,questionState
+Joan picked 37.0 oranges,beforeState
+Sara picked 10.0 oranges,beforeState
+Alyssa picked 30.0 pears,beforeState
+How many oranges were picked in total ?,questionState
+Joan has 40.0 blue balloons,beforeState
+Melanie has 41.0 blue balloon,beforeState
+How many blue balloons do they have in total ?,questionState
+Joan has 40.0 blue balloons,beforeState
+Melanie has 41.0 blue balloon,beforeState
+How many blue balloons do they have in total ?,questionState
+Sandy has 10.0 books,beforeState
+Benny has 24.0 books,beforeState
+Tim has 33.0 books,beforeState
+How many books do they have together ?,questionState
+Sandy has 10.0 books,beforeState
+Benny has 24.0 books,beforeState
+Tim has 33.0 books,beforeState
+How many books do they have together ?,questionState
+Jason picked 46.0 pears,beforeState
+Keith picked 47.0 pears,beforeState
+Mike picked 12.0 pears from the pear tree,beforeState
+How many pears were picked in total ?,questionState
+Jason picked 46.0 pears,beforeState
+Keith picked 47.0 pears,beforeState
+Mike picked 12.0 pears from the pear tree,beforeState
+How many pears were picked in total ?,questionState
+Daniel had some books,beforeState
+He gave 5 books to Stephen,transferState
+He now has 10 books,afterState
+How many books did he have to start with ?,questionState
+Daniel had some books,beforeState
+He gave 5 books to Stephen,transferState
+He now has 10 books,afterState
+How many books did he have to start with ?,questionState
+Sally had 27.0 Pokemon cards,beforeState
+Dan gave her 41.0 new Pokemon cards,transferState
+Sally bought 20.0 Pokemon cards,beforeState
+How many Pokemon cards does Sally have now ?,questionState
+Sally had 27.0 Pokemon cards,beforeState
+Dan gave her 41.0 new Pokemon cards,transferState
+Sally bought 20.0 Pokemon cards,beforeState
+How many Pokemon cards does Sally have now ?,questionState
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Tom has 9.0 yellow balloons,beforeState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Tom has 9.0 yellow balloons,beforeState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+How many dimes does Sam have now ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+How many dimes does Sam have now ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+Joan found 6.0 seashells,beforeState
+Jessica found 8.0 seashells on the beach,beforeState
+How many seashells did they find together ?,questionState
+Joan found 6.0 seashells,beforeState
+Jessica found 8.0 seashells on the beach,beforeState
+How many seashells did they find together ?,questionState
+Sandy grew 6.0 carrots,beforeState
+Sam grew 3.0 carrots,beforeState
+How many carrots did they grow in total ?,questionState
+Sandy grew 6.0 carrots,beforeState
+Sam grew 3.0 carrots,beforeState
+How many carrots did they grow in total ?,questionState
+Benny picked 2.0 apples,beforeState
+Dan picked 9.0 apples from the apple tree,beforeState
+How many apples were picked in total ?,questionState
+Benny picked 2.0 apples,beforeState
+Dan picked 9.0 apples from the apple tree,beforeState
+How many apples were picked in total ?,questionState
+Tims cat had kittens,beforeState
+He gave 3.0 to Jessica and 6.0 to Sara,transferState
+He now has 9.0 kittens,beforeState
+How many kittens did he have to start with ?,questionState
+Tims cat had kittens,beforeState
+He gave 3.0 to Jessica and 6.0 to Sara,transferState
+He now has 9.0 kittens,beforeState
+How many kittens did he have to start with ?,questionState
+Joan has 9.0 blue balloons,beforeState
+Sally has 5.0 blue balloons,beforeState
+Jessica has 2.0 blue balloons,beforeState
+How many blue balloons do they have in total ?,questionState
+Joan has 9.0 blue balloons,beforeState
+Sally has 5.0 blue balloons,beforeState
+Jessica has 2.0 blue balloons,beforeState
+How many blue balloons do they have in total ?,questionState
+elanie had 7.0 dimes in her bank,beforeState
+Her dad gave her 8.0 dimes,transferState
+her mother gave her 4.0 dimes,transferState
+How many dimes does Melanie have now ?,questionState
+elanie had 7.0 dimes in her bank,beforeState
+Her dad gave her 8.0 dimes,transferState
+her mother gave her 4.0 dimes,transferState
+How many dimes does Melanie have now ?,questionState
+Sara grew 4.0 onions,beforeState
+Sally grew 4.0 onions,beforeState
+Fred grew 4.0 onions,beforeState
+How many onions did they grow in all ?,questionState
+Sara grew 4.0 onions,beforeState
+Sally grew 4.0 onions,beforeState
+Fred grew 4.0 onions,beforeState
+How many onions did they grow in all ?,questionState
+Jason has 44.0 blue and 16.0 red marbles,beforeState
+Tom has 24.0 blue marbles,beforeState
+How many blue marbles do they have in all ?,questionState
+Jason has 44.0 blue and 16.0 red marbles,beforeState
+Tom has 24.0 blue marbles,beforeState
+How many blue marbles do they have in all ?,questionState
+There are 11.0 rulers and 34.0 crayons in the drawer,beforeState
+Tim placed 14.0 rulers in the drawer,transferState
+How many rulers are now there in all ?,questionState
+There are 11.0 rulers and 34.0 crayons in the drawer,beforeState
+Tim placed 14.0 rulers in the drawer,transferState
+How many rulers are now there in all ?,questionState
+Keith has 20.0 books,beforeState
+Jason has 21.0 books,beforeState
+How many books do they have together ?,questionState
+Keith has 20.0 books,beforeState
+Jason has 21.0 books,beforeState
+How many books do they have together ?,questionState
+Alyssas dog had puppies,beforeState
+She gave 7.0 to her friends,transferState
+She now has 5.0 puppies,afterState
+How many puppies did she have to start with ?,questionState
+Alyssas dog had puppies,beforeState
+She gave 7.0 to her friends,transferState
+She now has 5.0 puppies,afterState
+How many puppies did she have to start with ?,questionState
+Sara has 31.0 red and 15.0 green balloons,beforeState
+Sandy has 24.0 red balloons,beforeState
+How many red balloons do they have in total ?,questionState
+Sara has 31.0 red and 15.0 green balloons,beforeState
+Sandy has 24.0 red balloons,beforeState
+How many red balloons do they have in total ?,questionState
+She now has 5.0 cookies,afterState
+Sara picked 10.0 oranges,beforeState
+Alyssa picked 30.0 pears,beforeState
+How many oranges were picked in total ?,questionState
+Joan now has 37.0 oranges,afterState
+Sara picked 10.0 oranges,beforeState
+Alyssa picked 30.0 pears,beforeState
+How many oranges were picked in total ?,questionState
+Joan has 40.0 blue balloons,beforeState
+Melanie has 41.0 blue balloon,beforeState
+How many blue balloons do they have in total ?,questionState
+Joan has 40.0 blue balloons,beforeState
+Melanie has 41.0 blue balloon,beforeState
+How many blue balloons do they have in total ?,questionState
+Sandy has 10.0 books,beforeState
+Benny now has 4.0 books,afterState
+Tim has 33.0 books,beforeState
+How many books do they have together ?,questionState
+Sandy has 10.0 books,beforeState
+Benny has 24.0 books,beforeState
+Tim has 33.0 books,beforeState
+How many books do they have together ?,questionState
+Jason picked 46.0 pears,beforeState
+Keith now has 7.0 pears,afterState
+Mike picked 12.0 pears from the pear tree,beforeState
+How many pears were picked in total ?,questionState
+Jason picked 46.0 pears,beforeState
+Keith picked 47.0 pears,beforeState
+Mike picked 12.0 pears from the pear tree,beforeState
+How many pears were picked in total ?,questionState
+Daniel had some books,beforeState
+He gave 5 books to Stephen,transferState
+He now has 10 books,afterState
+How many books did he have to start with ?,questionState
+Daniel had some books,beforeState
+He gave 5 books to Stephen,transferState
+He now has 10 books,afterState
+How many books did he have to start with ?,questionState
+Sally had 27.0 Pokemon cards,beforeState
+Dan gave her 41.0 new Pokemon cards,transferState
+Sally bought 20.0 Pokemon cards,beforeState
+How many Pokemon cards does Sally have now ?,questionState
+Sally had 27.0 Pokemon cards,beforeState
+Dan gave her 41.0 new Pokemon cards,transferState
+Sally bought 20.0 Pokemon cards,beforeState
+How many Pokemon cards does Sally have now ?,questionState
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Stephen has 5 books,beforeState
+Daniel has 4 books,beforeState
+Daniel gave him 2 books,transferState
+How many books Stephen has?,questionState
+Tom has 9.0 yellow balloons,beforeState
+Tim now has 17 marbles,afterState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Tom has 9.0 yellow balloons,beforeState
+Sara has 8.0 yellow balloons,beforeState
+How many yellow balloons do they have in total ?,questionState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+Mike has 6 pencils,beforeState
+Sam had 9.0 dimes in his bank,beforeState
+His dad gave him 7.0 dimes,transferState
+How many dimes does Sam have now ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+There are 2.0 pencils in the drawer,beforeState
+Tim placed 3.0 pencils in the drawer,transferState
+How many pencils are now there in total ?,questionState
+Joan now has 6.0 seashells,afterState
+Jessica found 8.0 seashells on the beach,beforeState
+What is the total number of balloons Mike has now?,questionState
+Alice bought 10 chocolates,beforeState
+Can you tell how many coins Melanie has now?,questionState
+How many onions does Emma have?,questionState
+John received 34 candies from a friend,beforeState
+Sam took 37 books from Bob,transferState
+Tom transferred 7 pencils to Sophia,transferState
+Jessica handed 24 balloons to Stephen,transferState
+Daniel transferred 38 cookies to Fred,transferState
+"After the exchange, how many books does Sam have?",questionState
+Sophia brought 9 cookies,beforeState
+Sophia received 6 chocolates from a friend,beforeState
+Stephen brought 44 pencils,beforeState
+Sam had 38 tickets,beforeState
+Fred shared 29 tickets with John,transferState
+Joan sent 10 balloons to Jason,transferState
+Jason took 48 onions from Liam,transferState
+How many erasers does Mike have?,questionState
+Sara donated 17 cookies to Sophia,transferState
+Daniel received 34 balloons from a friend,beforeState
+Sara handed 38 books to Emma,transferState
+Keith had 32 erasers,beforeState
+"After giving to Sara, now Daniel has 33 pens",afterState
+Daniel has 21 chocolates,beforeState
+What is the total number of stamps Tom has now?,questionState
+Alice transferred 12 candies to Melanie,transferState
+What is the total number of chocolates Sophia has now?,questionState
+Daniel bought 4 books,beforeState
+Fred collected 5 apples,beforeState
+Tom brought 41 erasers,beforeState
+Sam took 31 carrots from Sally,transferState
+How many cookies does Jessica have?,questionState
+Jessica collected 30 pencils,beforeState
+Bob transferred 19 carrots to Mike,transferState
+Sam gave 31 erasers to Keith,transferState
+Can you tell how many marbles Sara has now?,questionState
+Stephen found 48 candies,beforeState
+What is the total number of dollars Sophia has now?,questionState
+Keith transferred 18 erasers to David,transferState
+How many marbles does John have?,questionState
+Bob bought 37 pencils,beforeState
+Sally donated 27 marbles to Daniel,transferState
+Alice collected 8 stamps,beforeState
+Stephen sent 46 balls to Mike,transferState
+"After taking from John, now Fred has 10 cookies",afterState
+"After giving to Mike, now Sophia has 32 cookies",afterState
+How many roses does Melanie have?,questionState
+Stephen gave 44 cookies to Alice,transferState
+David bought 26 marbles,beforeState
+"After the exchange, how many candies does Melanie have?",questionState
+David received 19 carrots from a friend,beforeState
+Sara had 38 candies,beforeState
+How many apples does Melanie have now?,questionState
+"At present, Sally owns 47 balloons",afterState
+Daniel collected 36 balls,beforeState
+"After taking from Tom, now Emma has 27 tickets",afterState
+Stephen collected 26 carrots,beforeState
+Liam had 21 balloons,beforeState
+Mike took 22 marbles from Jason,transferState
+Emma found 3 pencils,beforeState
+Sally has 12 bottles,beforeState
+Mike gave 9 coins to Sara,transferState
+Jessica handed 50 roses to Sara,transferState
+Emma collected 8 pens,beforeState
+"After the exchange, how many pencils does Liam have?",questionState
+"Currently, Alice has 16 marbles",afterState
+"After giving to Mike, now Fred has 19 bottles",afterState
+Sophia gave 14 balls to Keith,transferState
+Daniel gave 25 candies to Tom,transferState
+Stephen received 36 cookies from a friend,beforeState
+David brought 48 balloons,beforeState
+Joan found 25 onions,beforeState
+Sara brought 39 marbles,beforeState
+Tom collected 28 books,beforeState
+How many chocolates does Sally have?,questionState
+David received 19 bottles from a friend,beforeState
+"After the exchange, how many coins does Sophia have?",questionState
+Melanie had 45 coins,beforeState
+Emma transferred 2 balloons to Liam,transferState
+"Currently, Liam has 36 toys",afterState
+Sally has 10 marbles,beforeState
+Mike sent 2 books to Sally,transferState
+How many toys does Sophia have now?,questionState
+Can you tell how many pens Daniel has now?,questionState
+How many pencils does Jessica have?,questionState
+How many candies does Daniel have?,questionState
+Emma brought 15 tickets,beforeState
+How many apples does Sara have?,questionState
+Sophia received 22 toys from a friend,beforeState
+Liam found 12 erasers,beforeState
+Sophia bought 44 coins,beforeState
+Emma had 25 marbles,beforeState
+"After giving to Alice, now Keith has 23 pencils",afterState
+"After giving to David, now Alice has 7 balls",afterState
+"After taking from David, now Joan has 45 candies",afterState
+Jason found 20 toys,beforeState
+What is the total number of pencils Jason has now?,questionState
+John found 49 pencils,beforeState
+John gave 26 coins to Keith,transferState
+What is the total number of balloons Sara has now?,questionState
+Jason brought 32 erasers,beforeState
+Daniel received 1 pencils from a friend,beforeState
+How many carrots does Melanie have now?,questionState
+What is the total number of bottles David has now?,questionState
+Fred donated 48 balls to John,transferState
+How many carrots does Tom have now?,questionState
+Jason sent 2 onions to Stephen,transferState
+Sophia bought 25 onions,beforeState
+Jason transferred 24 bottles to Keith,transferState
+Keith collected 3 apples,beforeState
+Daniel transferred 38 stamps to Sally,transferState
+Sara shared 48 candies with Tom,transferState
+Mike donated 22 pencils to Melanie,transferState
+Can you tell how many toys Mike has now?,questionState
+Daniel sent 47 stamps to Keith,transferState
+"Currently, Daniel has 34 toys",afterState
+Stephen donated 10 cookies to Sara,transferState
+What is the total number of erasers David has now?,questionState
+John gave 25 toys to Stephen,transferState
+Daniel bought 43 cookies,beforeState
+Tom collected 45 balls,beforeState
+"After giving to John, now Tom has 49 candies",afterState
+"After taking from Fred, now Daniel has 22 bottles",afterState
+Daniel has 5 cookies,beforeState
+Jessica received 1 candies from a friend,beforeState
+"After giving to Melanie, now Emma has 14 coins",afterState
+Daniel shared 16 erasers with Emma,transferState
+"After taking from Sally, now Fred has 14 stamps",afterState
+Fred took 14 pencils from Sophia,transferState
+Mike bought 39 cookies,beforeState
+Jessica shared 41 balls with David,transferState
+Stephen shared 12 roses with Emma,transferState
+"After the exchange, how many marbles does Sam have?",questionState
+Sam received 3 erasers from a friend,beforeState
+Can you tell how many books Stephen has now?,questionState
+Mike handed 23 balls to Sophia,transferState
+Alice brought 27 bottles,beforeState
+Sally donated 41 bottles to Melanie,transferState
+How many roses does David have?,questionState
+"After giving to John, now Fred has 34 apples",afterState
+Sophia found 50 dollars,beforeState
+"After the exchange, how many balloons does Melanie have?",questionState
+Sam gave 42 dollars to Daniel,transferState
+How many candies does John have?,questionState
+"After taking from Tom, now Jason has 41 cookies",afterState
+Melanie handed 48 candies to David,transferState
+Daniel took 15 balloons from Tom,transferState
+Sophia collected 10 balloons,beforeState
+Sophia received 50 cookies from a friend,beforeState
+Melanie found 19 stamps,beforeState
+What is the total number of pens David has now?,questionState
+Mike brought 47 dollars,beforeState
+"At present, Alice owns 17 tickets",afterState
+Liam donated 21 toys to Sally,transferState
+John shared 5 balloons with Bob,transferState
+Can you tell how many candies John has now?,questionState
+How many tickets does David have now?,questionState
+Sam brought 37 carrots,beforeState
+David had 14 marbles,beforeState
+What is the total number of stamps Sophia has now?,questionState
+Bob has 24 candies,beforeState
+Can you tell how many carrots Stephen has now?,questionState
+Sam collected 48 bottles,beforeState
+What is the total number of carrots Jessica has now?,questionState
+"After giving to Tom, now David has 27 pencils",afterState
+Bob found 27 dollars,beforeState
+"After giving to Melanie, now Sara has 23 apples",afterState
+Sam collected 9 books,beforeState
+Liam found 20 pens,beforeState
+What is the total number of stamps Bob has now?,questionState
+Melanie had 33 onions,beforeState
+Tom collected 5 pencils,beforeState
+How many chocolates does Tom have?,questionState
+Tom found 26 candies,beforeState
+Keith sent 43 pencils to Mike,transferState
+"After the exchange, how many roses does Jessica have?",questionState
+"Currently, Sara has 23 roses",afterState
+Alice received 22 stamps from a friend,beforeState
+Alice brought 42 chocolates,beforeState
+Sophia found 24 carrots,beforeState
+Jason collected 37 cookies,beforeState
+How many apples does Keith have now?,questionState
+Can you tell how many pencils Sally has now?,questionState
+Emma found 47 erasers,beforeState
+How many balls does Sally have now?,questionState
+Keith bought 14 chocolates,beforeState
+Bob took 11 tickets from Emma,transferState
+Sally shared 39 balloons with Keith,transferState
+Sara gave 39 erasers to Melanie,transferState
+"After taking from Mike, now Fred has 30 onions",afterState
+"After giving to Melanie, now Emma has 24 books",afterState
+David bought 31 marbles,beforeState
+"After taking from Mike, now David has 26 coins",afterState
+Alice donated 15 chocolates to Sally,transferState
+Sophia collected 43 dollars,beforeState
+Jason received 23 candies from a friend,beforeState
+Jason gave 32 balloons to Fred,transferState
+John has 23 candies,beforeState
+Can you tell how many roses Stephen has now?,questionState
+"After taking from Liam, now Sara has 14 marbles",afterState
+"After the exchange, how many cookies does Liam have?",questionState
+"Currently, Jason has 29 cookies",afterState
+David found 18 candies,beforeState
+Sara handed 36 coins to John,transferState
+Can you tell how many chocolates Alice has now?,questionState
+Emma sent 3 erasers to Sally,transferState
+Alice handed 15 bottles to Mike,transferState
+Stephen transferred 14 books to Jason,transferState
+"After giving to Joan, now Emma has 46 carrots",afterState
+What is the total number of pencils Fred has now?,questionState
+"After the exchange, how many erasers does Sam have?",questionState
+David bought 21 candies,beforeState
+Sam has 21 tickets,beforeState
+Melanie donated 40 toys to David,transferState
+Stephen has 23 erasers,beforeState
+Sam shared 3 chocolates with Keith,transferState
+How many chocolates does Alice have now?,questionState
+How many books does Melanie have now?,questionState
+Keith transferred 15 pencils to Stephen,transferState
+Now Jessica has 6 tickets,afterState
+Stephen took 1 bottles from Jessica,transferState
+"After the exchange, how many pencils does Sara have?",questionState
+Jessica received 26 onions from a friend,beforeState
+Sam collected 49 erasers,beforeState
+David received 25 carrots from a friend,beforeState
+"After giving to Sophia, now Emma has 11 books",afterState
+Sam sent 37 erasers to Emma,transferState
+John transferred 1 stamps to Joan,transferState
+Can you tell how many bottles Daniel has now?,questionState
+How many balls does Sophia have now?,questionState
+What is the total number of candies Daniel has now?,questionState
+Joan has 20 chocolates,beforeState
+"At present, John owns 44 tickets",afterState
+How many dollars does Sally have?,questionState
+Liam found 41 toys,beforeState
+What is the total number of erasers Bob has now?,questionState
+Tom has 1 balloons,beforeState
+How many erasers does Mike have?,questionState
+Melanie found 4 roses,beforeState
+Jessica donated 31 erasers to Sara,transferState
+Sara brought 11 books,beforeState
+John shared 50 coins with Joan,transferState
+"Currently, Bob has 17 pencils",afterState
+Fred received 48 dollars from a friend,beforeState
+Joan brought 27 stamps,beforeState
+Alice had 12 marbles,beforeState
+Can you tell how many carrots Alice has now?,questionState
+Joan received 6 erasers from a friend,beforeState
+How many coins does Bob have?,questionState
+Can you tell how many coins Bob has now?,questionState
+What is the total number of candies Sam has now?,questionState
+Jessica has 15 onions,beforeState
+Jessica brought 47 books,beforeState
+"After giving to Sally, now Sophia has 22 balloons",afterState
+Keith shared 5 chocolates with Sara,transferState
+What is the total number of dollars Joan has now?,questionState
+Sara has 47 marbles,beforeState
+"After the exchange, how many candies does Sophia have?",questionState
+"After taking from Bob, now Keith has 34 bottles",afterState
+How many roses does Sally have now?,questionState
+"After taking from Sally, now David has 20 cookies",afterState
+Alice found 18 onions,beforeState
+Alice brought 2 pencils,beforeState
+Can you tell how many bottles Melanie has now?,questionState
+Stephen found 29 erasers,beforeState
+Bob sent 29 dollars to Sara,transferState
+How many books does Daniel have?,questionState
+How many carrots does Jessica have now?,questionState
+Stephen shared 27 dollars with Alice,transferState
+"After giving to Sara, now Stephen has 26 bottles",afterState
+Joan handed 7 tickets to Mike,transferState
+Liam bought 21 books,beforeState
+Now Bob has 10 coins,afterState
+Emma brought 39 chocolates,beforeState
+"After the exchange, how many balls does Keith have?",questionState
+"Currently, Mike has 48 pencils",afterState
+Sara brought 32 coins,beforeState
+What is the total number of balls Emma has now?,questionState
+What is the total number of cookies Sam has now?,questionState
+What is the total number of carrots Jessica has now?,questionState
+Sophia has 43 bottles,beforeState
+"At present, David owns 26 pencils",afterState
+Can you tell how many candies Stephen has now?,questionState
+Sally donated 43 candies to Melanie,transferState
+David brought 22 pens,beforeState
+Keith shared 35 bottles with Tom,transferState
+"At present, Alice owns 39 coins",afterState
+Sally had 2 tickets,beforeState
+Liam brought 34 stamps,beforeState
+"After the exchange, how many bottles does Stephen have?",questionState
+How many chocolates does John have?,questionState
+"At present, Sam owns 10 bottles",afterState
+Can you tell how many pencils Jason has now?,questionState
+How many apples does David have now?,questionState
+"At present, Jessica owns 12 onions",afterState
+Can you tell how many chocolates Liam has now?,questionState
+Jessica handed 30 erasers to David,transferState
+David received 19 cookies from a friend,beforeState
+Sam took 34 apples from Melanie,transferState
+Sally donated 6 books to Bob,transferState
+Can you tell how many books Liam has now?,questionState
+"After taking from Daniel, now Jason has 9 pencils",afterState
+How many roses does Bob have now?,questionState
+How many dollars does Sally have?,questionState
+Bob donated 25 coins to Sally,transferState
+Tom sent 10 marbles to Sophia,transferState
+"After the exchange, how many dollars does Sally have?",questionState
+Sally bought 18 apples,beforeState
+Keith handed 8 roses to Joan,transferState
+How many tickets does Jessica have now?,questionState
+"Currently, Sally has 26 erasers",afterState
+"After giving to Alice, now Sally has 2 books",afterState
+Sara donated 45 coins to Mike,transferState
+How many coins does Tom have now?,questionState
+Now Daniel has 41 balloons,afterState
+How many cookies does Liam have?,questionState
+Emma had 31 coins,beforeState
+"After giving to Tom, now Mike has 8 bottles",afterState
+Sophia had 19 cookies,beforeState
+Bob received 13 marbles from a friend,beforeState
+"After the exchange, how many candies does Sally have?",questionState
+Now Fred has 14 tickets,afterState
+Tom handed 20 books to David,transferState
+Sam donated 27 dollars to Bob,transferState
+"After taking from Tom, now Alice has 38 pencils",afterState
+Sophia took 31 bottles from Liam,transferState
+Alice received 24 pencils from a friend,beforeState
+Melanie donated 47 roses to Sara,transferState
+Fred found 4 pencils,beforeState
+David bought 38 stamps,beforeState
+Bob bought 5 stamps,beforeState
+Sam gave 27 carrots to Tom,transferState
+John handed 48 carrots to Emma,transferState
+Keith collected 2 carrots,beforeState
+What is the total number of carrots Stephen has now?,questionState
+Liam received 39 candies from a friend,beforeState
+Jason received 11 erasers from a friend,beforeState
+Daniel has 9 apples,beforeState
+John handed 28 pens to Jason,transferState
+Joan has 43 pens,beforeState
+"At present, Sophia owns 50 carrots",afterState
+David shared 18 toys with Daniel,transferState
+Jason received 11 pencils from a friend,beforeState
+Stephen has 17 coins,beforeState
+Melanie found 23 carrots,beforeState
+Sally handed 42 candies to Sophia,transferState
+Melanie donated 45 erasers to Sara,transferState
+Sally found 49 tickets,beforeState
+Liam bought 48 coins,beforeState
+Melanie gave 36 bottles to Sara,transferState
+What is the total number of roses Emma has now?,questionState
+Stephen found 26 books,beforeState
+John donated 11 candies to Sam,transferState
+"At present, Jason owns 14 balls",afterState
+What is the total number of bottles Sally has now?,questionState
+Tom donated 26 pencils to Bob,transferState
+Tom had 10 cookies,beforeState
+Sam received 46 chocolates from a friend,beforeState
+Jason has 24 tickets,beforeState
+"Currently, Emma has 7 toys",afterState
+Joan collected 27 carrots,beforeState
+What is the total number of erasers David has now?,questionState
+Mike donated 40 carrots to Jessica,transferState
+"After the exchange, how many pencils does Keith have?",questionState
+Daniel collected 14 carrots,beforeState
+Can you tell how many tickets Jason has now?,questionState
+Can you tell how many cookies Mike has now?,questionState
+Now Liam has 20 carrots,afterState
+Daniel sent 28 marbles to Alice,transferState
+"At present, Keith owns 34 toys",afterState
+Fred has 2 coins,beforeState
+Tom had 43 carrots,beforeState
+Mike took 38 bottles from Liam,transferState
+What is the total number of marbles Tom has now?,questionState
+How many stamps does Jason have?,questionState
+"At present, Joan owns 46 balls",afterState
+Tom transferred 40 toys to Stephen,transferState
+Fred found 29 coins,beforeState
+Melanie has 17 cookies,beforeState
+John sent 11 chocolates to Stephen,transferState
+Can you tell how many coins Daniel has now?,questionState
+"After the exchange, how many coins does Bob have?",questionState
+Melanie had 39 bottles,beforeState
+Liam bought 14 books,beforeState
+Sam handed 21 balloons to Keith,transferState
+John brought 23 tickets,beforeState
+"At present, Sophia owns 41 toys",afterState
+Now Jessica has 26 cookies,afterState
+Bob gave 11 stamps to Jessica,transferState
+Jason received 6 onions from a friend,beforeState
+Jessica received 36 carrots from a friend,beforeState
+"Currently, Tom has 11 balloons",afterState
+How many books does Sally have?,questionState
+What is the total number of bottles Bob has now?,questionState
+Daniel gave 30 dollars to Liam,transferState
+Bob received 36 dollars from a friend,beforeState
+John transferred 39 roses to Tom,transferState
+Mike gave 16 tickets to Fred,transferState
+Liam had 12 toys,beforeState
+"At present, Keith owns 33 chocolates",afterState
+John bought 47 cookies,beforeState
+Keith handed 27 books to Mike,transferState
+Sally brought 6 coins,beforeState
+Liam took 13 stamps from Keith,transferState
+"At present, Sally owns 17 bottles",afterState
+Sally brought 9 books,beforeState
+Emma had 34 roses,beforeState
+"Currently, Sam has 12 cookies",afterState
+Sam found 14 pencils,beforeState
+"After the exchange, how many pens does Keith have?",questionState
+Jessica found 29 dollars,beforeState
+"At present, Stephen owns 4 tickets",afterState
+"Currently, John has 25 onions",afterState
+Daniel found 13 dollars,beforeState
+David sent 24 roses to Bob,transferState
+Daniel shared 24 marbles with Mike,transferState
+"At present, Liam owns 27 candies",afterState
+John collected 49 balloons,beforeState
+What is the total number of coins Tom has now?,questionState
+Joan had 14 chocolates,beforeState
+"After taking from Sally, now Alice has 6 tickets",afterState
+Joan has 40 cookies,beforeState
+Sara gave 22 onions to Tom,transferState
+"After the exchange, how many carrots does David have?",questionState
+How many tickets does Tom have now?,questionState
+How many erasers does Sally have now?,questionState
+Bob shared 13 carrots with Stephen,transferState
+How many chocolates does Sally have now?,questionState
+Stephen took 14 onions from Jason,transferState
+Tom shared 3 toys with Liam,transferState
+How many dollars does Tom have now?,questionState
+"Currently, Liam has 45 candies",afterState
+Daniel collected 37 balls,beforeState
+John donated 23 apples to David,transferState
+Can you tell how many tickets Stephen has now?,questionState
+David received 19 balloons from a friend,beforeState
+Tom had 10 balls,beforeState
+Sara bought 46 toys,beforeState
+Sophia had 42 erasers,beforeState
+Can you tell how many balloons John has now?,questionState
+"At present, Fred owns 46 onions",afterState
+Mike brought 15 dollars,beforeState
+How many pencils does Joan have?,questionState
+Now Sophia has 37 balls,afterState
+Stephen bought 30 roses,beforeState
+Sally donated 45 tickets to Liam,transferState
+Tom transferred 5 roses to Liam,transferState
+Sally found 33 chocolates,beforeState
+Joan took 38 pencils from Jessica,transferState
+Sara shared 30 candies with Sally,transferState
+Can you tell how many pens Alice has now?,questionState
+Mike had 45 cookies,beforeState
+"After the exchange, how many stamps does Sophia have?",questionState
+Fred collected 3 coins,beforeState
+Bob collected 7 balloons,beforeState
+How many pencils does John have now?,questionState
+What is the total number of marbles Sam has now?,questionState
+Jessica took 23 roses from Sally,transferState
+Fred handed 46 erasers to Mike,transferState
+"After the exchange, how many cookies does Melanie have?",questionState
+Sally had 6 balls,beforeState
+How many erasers does Jessica have now?,questionState
+What is the total number of books Stephen has now?,questionState
+Sally took 6 carrots from Fred,transferState
+Alice brought 21 toys,beforeState
+Bob had 42 roses,beforeState
+Liam collected 30 onions,beforeState
+What is the total number of carrots Alice has now?,questionState
+"After giving to Keith, now Melanie has 15 carrots",afterState
+"Currently, Jessica has 22 marbles",afterState
+Fred found 10 pencils,beforeState
+"After the exchange, how many stamps does Sophia have?",questionState
+Sam handed 39 roses to Tom,transferState
+"Currently, Stephen has 30 bottles",afterState
+"After taking from Tom, now Jason has 30 chocolates",afterState
+Sophia shared 8 bottles with Fred,transferState
+Stephen took 41 apples from Sam,transferState
+Jessica donated 15 pens to David,transferState
+"After the exchange, how many tickets does Sophia have?",questionState
+Sophia brought 44 cookies,beforeState
+Joan donated 9 bottles to David,transferState
+Fred donated 46 candies to Sam,transferState
+Bob bought 16 pens,beforeState
+Sophia brought 49 tickets,beforeState
+Mike gave 24 erasers to Fred,transferState
+Sally had 4 toys,beforeState
+"At present, Alice owns 35 balloons",afterState
+Stephen has 14 balloons,beforeState
+David has 47 erasers,beforeState
+"Currently, Tom has 18 pens",afterState
+John had 46 pens,beforeState
+How many cookies does Keith have?,questionState
+"After the exchange, how many pencils does Melanie have?",questionState
+Joan gave 8 erasers to Sophia,transferState
+Sam donated 18 books to Joan,transferState
+Jason bought 15 marbles,beforeState
+Emma transferred 18 marbles to Keith,transferState
+How many toys does Sara have now?,questionState
+"At present, Mike owns 37 stamps",afterState
+How many stamps does Keith have?,questionState
 
