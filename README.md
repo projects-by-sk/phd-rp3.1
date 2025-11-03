@@ -7,3 +7,4 @@ This page includes the content related to the work "Generating and Solving Compl
    a) Sentence classifier is trained using the "TC-Sentences1K.csv" datasets. This module is used to predict the type of a sentence present in the TC word problem bieng solved.
    b) Once the sentence-type is learned, BERT-based language model (LM) is fine-tuned using the appropriate dataset (we have now provided these datasets). For instance, a LM fine-tuned using "TR-Sentences.csv" is later used to extract ontology ABox information from Transfer-type sentences. 
 4. Under OWL-Files folder, we have uploaded owl files to explain how a complex TC word problem (or word problems involving multiple object-transfers) is solved by the proposed approach. For more information, refer to Info.txt file uploaded under this folder.
+5. The "requirements.txt" file lists the required packages/libraries for running the code on CPU/GPU.
