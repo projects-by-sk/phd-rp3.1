@@ -6,7 +6,7 @@ from datasets import Dataset
 from transformers import BertTokenizerFast, BertForSequenceClassification, Trainer, TrainingArguments
 import torch
 
-df = pd.read_csv("BT.csv")  #need to appropriately provide path to the dataset
+df = pd.read_csv("BT.csv")  #need to appropriately provide path of the dataset
 
 data = []
 
