@@ -89,4 +89,6 @@ examples = ["Agent2", "number3", "type1", "Agent1", "number1", "type2"]
 for ex in examples:
     print(f"{ex} → {predict_label(ex)}")
 
+#Similarly, the tokenized class-labelled sentences can be provided here to take the predictions.
+
 
